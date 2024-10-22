@@ -1,4 +1,4 @@
-# The evolving patterns of Knowledge on Wikipedia: Good intentions, Bad Actors and computational means of distinguishing the two
+# Dynamics at the verge of Knowledge: good intentions, bad actors and computational means of distinguishing the two on Wikipedia
 
 # setting the stage - what is wikipedia
 
@@ -55,7 +55,7 @@ Tasty Treat
 ## existing methods **WIKIPEDIA - CURRENT METHODS**
 
 _Abstract_
-The talk offers an end-to-end perspective into Wikipedia's article revision process and the challenges it faces, especially in the advent of Generative AI. We will set up the stage with a primer into the platform itself and the features that make is so important in natural language processing (NLP). Useful as it is, Wikipedia's founding assumptions bring certain risks to the table, so the aim is to get informed about these. We will deep dive into the harm that's already been done (and fixed!) in the past, to get a better grip on the "how's" and "why's". Ultimately, we will ask and attempt to try to answer some of the big questions regarding ways of protecting the common good from ill will. Why would we even turn automatic? What systems already protect us from malicious edits? Can we do more with Large Language Models?
+The talk offers an end-to-end perspective into Wikipedia's article revision process and the challenges it faces, especially in the advent of Generative AI. We will set up the stage with a primer into the platform's features that make is so valuable for natural language processing (NLP) needs. Useful as it is, though, Wikipedia's founding assumptions bring certain risks to the table we need to address. To get a better grip on the "how's" and "why's", we will deep dive into the harm that's already been done (and fixed!) in the past. What connects House Representatives, Indian Enterprenours and the right-wing bias in Croatian politics? With our imagination stimulated, we will examine the tools Wikimedia Foundation has at its disposal to flag ill will and ward off malicious revisions, vandalism and manipulation attempts. Which quirks of the platform make these efforts insufficient? The future is automatic, so our eyes will turn towards the next big thing. In search of neutrality guardrails, preventing us from drifting too far-off, we will explore the ways in which Large Language Models can aid the case. What's their promise? What could go wrong?
 
 To get a more detailed view iFirstly, we will take a closer look into the platform itself and assess the risks some of its ounding assumptions bring. To better understand these risks, we will put the platofrm mechanics and governance in context and discuss some of disinformation campaigns conducted in the past.
 
