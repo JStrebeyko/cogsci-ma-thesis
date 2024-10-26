@@ -5,9 +5,13 @@
 
 [Blocks Architecture (BloArk): Efficient, Cost-Effective, and Incremental Dataset Architecture for Wikipedia Revision History](https://arxiv.org/abs/2410.04410)
 
----
+check
+-> https://en.wikipedia.org/wiki/Wikipedia:Requests_for_page_protection
+-> https://www.mediawiki.org/wiki/Machine_Learning
 
-**methods**
+# Wiki
+
+## comparative wikipedia studies examples
 
 > In this work, we propose INFOGAP, a highly reliable method for identifying overlaps and gaps across different language articles on the same topic.
 
@@ -21,10 +25,6 @@ _why study gaps in knowledge cross-language?_
 
 [!"NOT_COMPLETE"]
 [Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia](https://arxiv.org/pdf/2410.04282)
-
----
-
-# Wiki
 
 ## exiting systems
 
