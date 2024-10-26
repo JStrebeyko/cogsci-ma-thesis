@@ -165,7 +165,7 @@ The editors, who seemed to know each other personally and sharing same political
 throughtout a decade, altered or even re-written hundreds of articles on country's history, politics and many other topics
 involving right-wing, ultra-conservatist bias to the content
 
-**context**
+## context
 
 - Serbo-Croatian Wikipedia’s community was split up into Croatian, Bosnian, Serbian, and the original
   Serbo-Croatian wikis starting in 2003. Although speaking the same language (and perhaps writing it with different scripts), the articles content started to diverge apart, with HR ones taking on a very specific narrative.
@@ -177,7 +177,8 @@ it would soon a) branch out from the original topic; b) turn ad hominem; and c) 
 
 disinformation and bias
 
-**bias**
+## bias
+
 by using well-known disinformation tactics, including
 relativisation of facts, whataboutism, discreditation of other participants and outright bullying
 
@@ -188,20 +189,19 @@ Source bias: Citing non-neutral sources without disclosing their affiliation
 Selection bias: Selectively including and excluding content regardless of its notability
 or topical relevance in order to affect the reader’s perception.
 
-The evaluation has shown that Croatian and Serbian language Wikipedia, in 62.5% and 39.1% of
-cases, respectively, avoid informing their visitors in the introductory paragraph that the person
-they’re reading about is a convicted war criminal who comes from the same ethnic group. (Google Knowledge Panel)
+- The evaluation has shown that Croatian and Serbian language Wikipedia, in 62.5% and 39.1% of cases, respectively, avoid informing their visitors in the introductory paragraph that the person they’re reading about is a convicted war criminal who comes from the same ethnic group. (Google Knowledge Panel)
 
 - Whitewashing "our people" was a standard
 - introducing dismissive / political labels as actual encyclopedia entries
 
-**governance**
-Administrators and sock-puppeteers
-The group has been using its on-wiki positions of power to attract new like-minded contributors, silence and ban dissenters, manipulate community elections and subvert Wikipedia’s and the broader movement’s native conflict resolution mechanisms.
+## governance
 
-Very active in discussions, but going silent in crucial moments to avoid detection
+- Administrators and sock-puppeteers
+- The group has been using its on-wiki positions of power to attract new like-minded contributors, silence and ban dissenters, manipulate community elections and subvert Wikipedia’s and the broader movement’s native conflict resolution mechanisms.
 
-**results**
+- Very active in discussions, but going silent in crucial moments to avoid detection
+
+## results
 
 - decade of Political revisionism and manipulation of facts in WikiHR.
 - youth - Youth are the main consumers of social media and the main target of misinformation campaigns.
@@ -210,23 +210,24 @@ Google’s Knowledge Panel
 
 For it to work, you need a lot of editions and a long period of time.
 
-**as an example**
-threre could be similar attempts of project capture in other languages as well.
-A more resourced and better-organized attempt could be harder to detect and eventually reverse.
-Wikipedia is pretty resilent against the pressures from autocratic regimes, but not from taking the project from within
+## detection
 
-**detection**
-The report analysed articles of 32 widely known people from the time and compared the way their biographies are shown.
+- The report analysed articles of 32 widely known people from the time and compared the way their biographies are shown.
 
-Identifying disinformation, which usually entails demonstrating intent, on Wikipedia as such is substantially more difficult.
+- Identifying disinformation, which usually entails demonstrating intent, on Wikipedia as such is substantially more difficult.
 
-certain bias in how how some facts are contextualized within wiki projects is unavoidable and part of platform's genome
-At the same time,
+- certain bias in how how some facts are contextualized within wiki projects is unavoidable and part of platform's genome
 
 > bias is usually found, discussed and ultimately corrected by the Wikipedia volunteer communities.
 > If may of these biased facts stay on and do not get corrected, it stops being NPOV and contributes to represetation of facts that is part of disinformation campaign
 
-One of solutioons suggested within the report was "developing collaborative solutions that would help monitor communities globally to timely identify major ideological shifts in projects."
+- One of solutioons suggested within the report was "developing collaborative solutions that would help monitor communities globally to timely identify major ideological shifts in projects."
+
+## as an example
+
+- threre could be similar attempts of project capture in other languages as well.
+- A more resourced and better-organized attempt could be harder to detect and eventually reverse.
+  Wikipedia is pretty resilent against the pressures from autocratic regimes, but not from taking the project from within
 
 # what can be done?
 
