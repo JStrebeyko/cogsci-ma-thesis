@@ -1,0 +1,3 @@
+- [ ] check "llms for bias detection research" - and pick three papers
+- [ ] [Wikimedia data for AI: a review of Wikimedia datasets for NLP tasks and AI-assisted editing](https://arxiv.org/abs/2410.08918)
+- [ ] [ORES: Lowering Barriers with Participatory Machine Learning in Wikipedia](https://arxiv.org/abs/1909.05189)
