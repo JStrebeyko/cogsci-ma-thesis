@@ -1,4 +1,2 @@
-- [] ZIL PAN: the way things "sound": Aleksander Wawer
-- [] ZIL PAN: fact-checking: Piotr Przybyła.
-- [ ] reach out to wikimedia-ml about access to ORES
-- [ ] A. Halfaker, about ORES
+- [ ] A. H, about ORES
+- [ ] see with P.P

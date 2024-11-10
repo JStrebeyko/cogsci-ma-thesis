@@ -23,5 +23,23 @@ reading: [Research:Interpolating quality dynamics in Wikipedia and demonstrating
 ### 8.11
 
 - check access to ORES
+
   - checked, it became one of many models available at LeftWing. The problem is the API expects existing revisions and not arbitrary data, making it difficult to use with a made up dataset;
+
+- [ZIL PAN](https://www.upf.edu/web/erinia): the way things "sound": A.Wawer
+- [ZIL PAN](https://www.upf.edu/web/erinia) / [upf](https://www.upf.edu/web/erinia): fact-checking: P. Przybyła.
+
+### 10.11
+
+- reachout: [EDMO](https://edmo.eu/), [DEMAGOG](https://demagog.org.pl/), [SWPS](https://swps.pl/kontakt/nauka-i-badania/);
+- write to the promotor;
+- set a meeting with P.Przybyła;
+
+setup pipeline with ollama and a notebook;
+
+#### before the wednesday meeting
+
+- consider questions and "presentation" flow, what I want to show (not necessarily slides etc)
+- get the suggested questions
+
 - [ ] start working on a dataset

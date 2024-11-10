@@ -57,3 +57,39 @@ Biases:
 
 > In larger language Wikipedia projects, like English, Spanish, French or German, this diversity comes from the sheer number of participants, but also from the fact that these are all pluricentric languages with substantial numbers of native speakers coming from different countries, bringing somewhat different socio-political and cultural frames of reference to the well-established editorial peer on-wiki processes.
 > (PL more at risk)
+
+what it takes for disinformation campaign:
+
+> A possible way to implement a disinformation campaign would be for an organised group of user accounts to take over the entire language project by banning dissenters and "installing" ideologically-aligned user accounts in roles essential to self-governance processes. But for this effort to have any influence on a wider society reliant on the Wikipedia language project, it has to impact content in a substantial number of articles and for an extended period of time.
+
+1. organized group at lead positions
+2. many articles for extended period of time
+
+> In the case of Croatian language Wikipedia, articles affected by historical revisionism and manipulation of
+> facts have been online and influencing the public sphere for more than a decade.
+> [against the ideals of five pillars to be upheld in all Wikipedia projects], the ultimate goal of this endeavour appears to be to try to _influence the reader’s final moral or value judgement of a person, phenomenon or historical event_ described in an article and to do so in a way that supports and corresponds to the influencer’s broader ideological views. (emphasis mine) (out of alignment with first and second pillar)
+
+Question: can we use moral judgement as a metric?
+
+#### recommendation
+
+(encouraging building local governance)
+for:
+
+> However, the process of Hr.WP’s realignment has just begun, and the community may need to consider designing and developing instruments and institutions that will allow for more efficient content oversight, communication, and exchange of resources
+
+against:
+
+> The solutions implemented by the community must be sustainable. To ensure this, it is advisable that the community puts in place a monitoring committee
+
+So content monitoring is needed regardless
+
+#### ADDITIONAL OBSERVATION: Strengthen global governance
+
+> It might also be worthwhile for the community or the foundation to investigate whether technical solutions could have exposed the misconduct of a group of users sooner.
+
+> The communities and the foundation could also engage in a dialogue and develop collaborative solutions that would help monitor communities globally to timely identify major ideological shifts in projects.
+
+thesis project aim is to address this need
+
+#### measuring disinformation
