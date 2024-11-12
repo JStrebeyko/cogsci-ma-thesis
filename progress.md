@@ -35,6 +35,19 @@ reading: [Research:Interpolating quality dynamics in Wikipedia and demonstrating
 - write to the promotor;
 - set a meeting with P.Przybyła;
 
+### 11.11
+
+- went go through arxiv on two queries: "bias detection llms" and "wikipedia llms"
+
+Yet another 20 articles to read, with at least 2 seemingly very relevant
+
+### 12.11
+
+read two most relevant articles, inc. the wiki npov / llm article (too relevant to postpone)
+investigate the edits quantitatively: get number per date and plot, reach to article content before / after
+seek vector-based methods?
+
+prepare for wednesday
 setup pipeline with ollama and a notebook;
 
 #### before the wednesday meeting

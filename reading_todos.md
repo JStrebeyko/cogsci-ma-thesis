@@ -1,5 +1,9 @@
 - [ ] check "llms for bias detection research" - and pick three papers
 
+## LLMs, NPOV, Wikipedia
+
+- [ ] [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)
+
 ## AI + Wikipedia
 
 - [ ] [Research:Large Language Models (LLMs) Impact on Wikipedia's Sustainability](<https://meta.wikimedia.org/wiki/Research:Large_Language_Models_(LLMs)_Impact_on_Wikipedia%27s_Sustainability>)
