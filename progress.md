@@ -43,16 +43,19 @@ Yet another 20 articles to read, with at least 2 seemingly very relevant
 
 ### 12.11
 
-read two most relevant articles, inc. the wiki npov / llm article (too relevant to postpone)
 investigate the edits quantitatively: get number per date and plot, reach to article content before / after
-seek vector-based methods?
+read two most relevant articles, inc. the wiki npov / llm article (too relevant to postpone)
 
-prepare for wednesday
-setup pipeline with ollama and a notebook;
+- early results: LLMs are very bad at detecting biased text (~61%, a little more than a coinflip)
+  prepared a little presentation for tomorrow
 
-#### before the wednesday meeting
+### 13.11
 
-- consider questions and "presentation" flow, what I want to show (not necessarily slides etc)
-- get the suggested questions
+meet with PP. The [notes are here](./reachout/13.11.md) (in PL)
 
-- [ ] start working on a dataset
+important possible shortcomings of the current direction:
+
+- seeking intention, which is classically very difficult;
+- seems like a pretty complex expertise knowledge is needed, something LLMs out of the box do not have, and which would be necessary for zero / few shot.
+- to fine-tune we would need few tousands labeled examples. the endavour would necessitate countless hours and shouldn't be performed by a single person by definition
+- PP pretty optimistic about the pivot, modelling the "heatmap" of the most commonly changes parts of the article
