@@ -84,18 +84,25 @@ important possible shortcomings of the current direction:
 
 ##### temporal analysis
 
+- [ ] read stuff from AA
+
 - a qualitative, human-driven one OR...
 - using existing NLP toolkit of spaCy etc for SA / NER accross revisions, seeing if "the needle tweaks"
 - this could be supplemented by LLM, to try to gauge who would the change benefit
 
 ##### comparative analysis: LLMs on SA tasks
 
+- [ ] check access to PLLuM and Bielik
+- [ ] check polish SA datasets
+
 - benchmark a model or two on polish SA (PLLuM vs Bielik vs ChatGPT / Llama)
 - use the winning model to run through the Wiki
 
 ##### comparative analysis: Ukrainian Conflict in English and Polish wiki
 
-- topological, fact grouding
+- [ ] check metrics used for such comparisons
+
+- topological, sentiment, facts structure et al.
 
 - press the promotor for a meeting
 
