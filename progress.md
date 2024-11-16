@@ -84,7 +84,8 @@ important possible shortcomings of the current direction:
 
 ##### temporal analysis
 
-- [ ] read stuff from AA
+- [ ] read [AIGen'ed suggestions AA got for me](./reachout/14.11_aa.md)
+      Many good:
 
 - a qualitative, human-driven one OR...
 - using existing NLP toolkit of spaCy etc for SA / NER accross revisions, seeing if "the needle tweaks"
