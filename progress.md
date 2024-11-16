@@ -80,12 +80,35 @@ important possible shortcomings of the current direction:
 
 ## 15.11
 
+- [v] read [AIGen'ed suggestions AA got for me](./reachout/14.11_aa.md)
+
+Many good:
+_text classification algorithms_: Logistic Reg, SVM, Random Forest - yet all require data
+_Deep Learning_: RNNs, LSTM for context considerations, CNNs - effective with word embeddings, plus transformers like BERT / GPT with finetuning, RoBERTa, DeBERTa for robustness
+_Fact checking models_: "cross-lingual"?, evidence-based classigication, database verification, Knowledge Graphs
+_content-based approaches_: semantic similarity, topic modelling
+_contextual analysis_: Sentiment Analysis (mostly for extreme language, tho), Temporal Analysis (of spread pattern in case of fake news), fake news detection models (using textual features of contents from LIAR / FakeNewsNet datesets, metadata and propagation patterns)
+_methods to improve the classification results_: ensamble learning (RF, SVM), stacking - using a meta model to combine predictions from different models
+_transfer learning_: fine-tuning BERT or GPT with labeled data can drastically decrease the number of labeled examples to be given to the model during inference.
+_data fusion / multimodality_: combining different modalities (text, video, image, social) for holistic approach
+_challenges_: scarsity of data (robust datasets needed), evolving nature of misinformation, explainability
+
+> "In practice, the most effective misinformation detection systems often combine multiple algorithms and methods, from traditional classifiers to advanced deep learning architectures. Fine-tuning and domain-specific training are crucial for maximizing accuracy in real-world applications."
+
+suggestions:
+
+- Temporal Dynamics of Misinformation Spread on Social Media
+- Creation of a Dynamic Labeled Dataset for Misinformation Detection
+- Evolving Misinformation Detection Models
+- Limitations of Large Language Models in Misinformation Detection
+- Impact of Temporal Factors on Misinformation Labeling and Detection
+- Cross-Domain Temporal Misinformation Detection (platform specificity)
+- Fact-checking Websites and Misinformation Spread: a temporal perspective
+- Modeling the Lifecycle of Misinformation - What are key temporal milestones in misinformation lifecycle?
+
 ### discussing alternative paths
 
-##### temporal analysis
-
-- [ ] read [AIGen'ed suggestions AA got for me](./reachout/14.11_aa.md)
-      Many good:
+#### temporal analysis
 
 - a qualitative, human-driven one OR...
 - using existing NLP toolkit of spaCy etc for SA / NER accross revisions, seeing if "the needle tweaks"
