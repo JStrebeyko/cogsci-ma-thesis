@@ -80,6 +80,8 @@ important possible shortcomings of the current direction:
 
 ## 15.11
 
+### redirection genAI suggests
+
 - [v] read [AIGen'ed suggestions AA got for me](./reachout/14.11_aa.md)
 
 Many good:
@@ -106,28 +108,55 @@ suggestions:
 - Fact-checking Websites and Misinformation Spread: a temporal perspective
 - Modeling the Lifecycle of Misinformation - What are key temporal milestones in misinformation lifecycle?
 
-### discussing alternative paths
+## 17.11
 
-#### temporal analysis
+### temporal analysis
 
 - a qualitative, human-driven one OR...
 - using existing NLP toolkit of spaCy etc for SA / NER accross revisions, seeing if "the needle tweaks"
 - this could be supplemented by LLM, to try to gauge who would the change benefit
 
-##### comparative analysis: LLMs on SA tasks
-
-- [ ] check access to PLLuM and Bielik
-- [ ] check polish SA datasets
+### comparative analysis: LLMs on SA tasks
 
 - benchmark a model or two on polish SA (PLLuM vs Bielik vs ChatGPT / Llama)
 - use the winning model to run through the Wiki
 
-##### comparative analysis: Ukrainian Conflict in English and Polish wiki
-
-- [ ] check metrics used for such comparisons
+### comparative analysis: Ukrainian Conflict in English and Polish wiki
 
 - topological, sentiment, facts structure et al.
 
-- press the promotor for a meeting
+## 18.11 - discussing alternative paths
+
+### model access
+
+- [x] access to PLLuM
+- doesn't seem to be ready as for Nov 2024 (source: timetable on [the website](https://pllum.clarin-pl.eu/#efects))
+- ⏳ reach out to PLLuM via email.
+- [x] check access to Bielik
+- ✅ written on Discord -> it's on [ollama](https://ollama.com/search?q=bielik)!
+
+### comparisons
+
+- [x] find that one article that was doing comparative studies. [Found](https://arxiv.org/pdf/2410.04282).
+
+### outreach
+
+- [x] ⏳ write to AZ regarding to set up a meeting
+
+## 19.11
+
+### model access
+
+- [ ] find (maybe on [this SpeakLeash GH project](https://github.com/speakleash/Bielik-how-to-start)) out if I can used unquantized version of Bielik somewhere
+
+### comparisons
+
+- [ ] check for methods used for comparative Wikipedia studies [in this article that I found](https://arxiv.org/pdf/2410.04282).
+- [ ] check polish SA datasets
+- [ ] check HF's [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook)
+
+### data
+
+- [ ] explore the data a bit
 
 - go through NLP presentations seeking inspiration
