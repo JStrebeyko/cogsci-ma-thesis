@@ -4,7 +4,7 @@
 
 ## LLMs, NPOV
 
-- [ ] [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)
+- [ ] ⭐ [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)
 
 ## AI
 
@@ -46,9 +46,51 @@ making a situation more difficult to newcomers.
 
 # NLP
 
+## General, PL, evaluations
+
+- [] [awesome nlp pl](https://github.com/ksopyla/awesome-nlp-polish?tab=readme-ov-file)
+
+## model evaluation
+
+- [] [The LLM Evaluation guidebook ⚖️](https://github.com/huggingface/evaluation-guidebook)
+
 ## Tools
 
 - [] [Word2vec](https://en.wikipedia.org/wiki/Word2vec)
+
+## knowledge graphs
+
+- [] [An Introduction to Knowledge Graphs](https://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
+- [] [Wikinformetrics: Construction and description of an open Wikipedia knowledge graph data set for informetric purposes](https://direct.mit.edu/qss/article-pdf/3/4/931/2070779/qss_a_00226.pdf)
+- [] [WikiKnowledgeGraphs](https://github.com/nateburley/WikiKnowledgeGraphs)
+- [] [Comparative Analysis of Knowledge Graphs Constructed from Fake News and Legitimate News Sources](https://wikiworkshop.org/papers/comparative-analysis-of-knowledge-graphs-constructed-from-fake-news-and-legitimate-news-sources.pdf)
+
+## temporal network analysis
+
+- [] [Temporal network analysis: Introduction, methods and detailed tutorial with R](https://arxiv.org/pdf/2307.12339)
+
+## bias detection
+
+- [] [Automated identification of media bias in news articles: an interdisciplinary literature review](https://link.springer.com/article/10.1007/s00799-018-0261-y)
+- [] [An Interdisciplinary Approach for the Automated Detection and Visualization of Media Bias in News Articles](https://arxiv.org/pdf/2112.13352)
+
+## sentiment analysis in PL
+
+- [] [Multi-Level Sentiment Analysis of PolEmo 2.0: Extended Corpus of Multi-Domain Consumer Reviews](https://aclanthology.org/K19-1092.pdf)
+
+### non-credible sources
+
+- [] [ERINIA: Evaluating the Robustness of Non-Credible Text Identification by Anticipating Adversarial Actions](https://ceur-ws.org/Vol-3525/paper5.pdf)
+
+## Information Gaps
+
+- [] [Locating Information Gaps and Narrative Inconsistencies Across Languages: A Case Study of LGBT People Portrayals on Wikipedia](https://arxiv.org/pdf/2410.04282) \ [Github](https://github.com/smfsamir/infogap)
+
+## stance detection
+
+-[] ⭐ [Stance detection: a practical guide to classifying political beliefs in text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E227E746BD7D9751526DA0EC2C378787/S2049847024000359a.pdf/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text.pdf)
+
+- [] [Infusing Knowledge from Wikipedia to Enhance Stance Detection](https://arxiv.org/pdf/2204.03839v1)
 
 ## metrics
 
