@@ -145,6 +145,14 @@ suggestions:
 
 ## 19.11
 
+### data
+
+- [ ] explore the data a bit:
+- ✅ allow getting _all_ the revisions for a given article;
+- ✅ create a pipeline for saving the revisions in csv files;
+- group and plot revisions per rev - non-rev
+- learn to identify "difficult subjects" computationally, like with wikidata topology, (cat: history, inc. Poland / Ukraine)
+
 ### model access
 
 - [ ] find (maybe on [this SpeakLeash GH project](https://github.com/speakleash/Bielik-how-to-start)) out if I can used unquantized version of Bielik somewhere
@@ -154,9 +162,5 @@ suggestions:
 - [ ] check for methods used for comparative Wikipedia studies [in this article that I found](https://arxiv.org/pdf/2410.04282).
 - [ ] check polish SA datasets
 - [ ] check HF's [evaluation guidebook](https://github.com/huggingface/evaluation-guidebook)
-
-### data
-
-- [ ] explore the data a bit
 
 - go through NLP presentations seeking inspiration
