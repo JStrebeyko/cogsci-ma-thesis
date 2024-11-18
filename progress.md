@@ -108,7 +108,7 @@ suggestions:
 - Fact-checking Websites and Misinformation Spread: a temporal perspective
 - Modeling the Lifecycle of Misinformation - What are key temporal milestones in misinformation lifecycle?
 
-## 17.11
+## 16.11
 
 ### temporal analysis
 
@@ -125,7 +125,7 @@ suggestions:
 
 - topological, sentiment, facts structure et al.
 
-## 18.11 - discussing alternative paths
+## 17.11 - discussing alternative paths
 
 ### model access
 
@@ -143,7 +143,7 @@ suggestions:
 
 - [x] ⏳ write to AZ regarding to set up a meeting
 
-## 19.11
+## 18.11
 
 ### data
 
