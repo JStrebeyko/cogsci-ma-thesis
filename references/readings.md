@@ -88,7 +88,8 @@ making a situation more difficult to newcomers.
 
 ## stance detection
 
--[] ⭐ [Stance detection: a practical guide to classifying political beliefs in text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E227E746BD7D9751526DA0EC2C378787/S2049847024000359a.pdf/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text.pdf)
+- [] ⭐ [Stance Detection on Social Media: State of the Art and Trends](https://arxiv.org/pdf/2006.03644) - siminlgy good intro
+- [] ⭐ [Stance detection: a practical guide to classifying political beliefs in text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E227E746BD7D9751526DA0EC2C378787/S2049847024000359a.pdf/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text.pdf)
 
 - [] [Infusing Knowledge from Wikipedia to Enhance Stance Detection](https://arxiv.org/pdf/2204.03839v1)
 
