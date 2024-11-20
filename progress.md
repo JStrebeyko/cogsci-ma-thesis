@@ -147,9 +147,22 @@ suggestions:
 
 ### data
 
-- [ ] explore the data a bit:
+- [x] explore the data a bit:
 - ✅ allow getting _all_ the revisions for a given article;
 - ✅ create a pipeline for saving the revisions in csv files;
+
+## 19.11
+
+see like ai [reading](./references/00_see_like_ai.md)
+
+## 20
+
+finish [reading](./references/00_see_like_ai.md), new ideas
+
+TODO
+
+### data
+
 - group and plot revisions per rev - non-rev
 - learn to identify "difficult subjects" computationally, like with wikidata topology, (cat: history, inc. Poland / Ukraine)
 
