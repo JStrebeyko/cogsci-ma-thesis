@@ -155,15 +155,15 @@ suggestions:
 
 see like ai [reading](./references/00_see_like_ai.md)
 
-## 20
+## 20.11
 
 finish [reading](./references/00_see_like_ai.md), new ideas
 
-## 21
+## 21.11
 
-cleanup tasks
-finish digests
-extract steps from [the reading](./references/00_see_like_ai.md)
+- [x] cleanup tasks
+- [x] extract steps from [the reading](./references/00_see_like_ai.md) - create a [notebook](./notebooks/ashkinaze.ipynb)
+- [] Croatian digest
 
 ### data
 
