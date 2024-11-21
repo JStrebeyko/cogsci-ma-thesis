@@ -1,8 +1,8 @@
-> LLMs struggled with bias detection, achieving only 64% accuracy on
-
-> To steer models towards specific norms and values, there is a growing trend of stating high-level rules as prompts. For
+# background
 
 > mirrors earlier debates in human-AI interaction and beyond. For instance,Lucy Suchman’s 1987 “Plans and Situated Actions” frameworkcontrasted predetermined procedures derived from universal principles (“plans”) with context-dependent actions based on concrete circumstances (“situated actions”). She argued that AI systems execute plans, while humans perform situated actions. This distinction relates to James Scott’s [41] concept of _“seeing like a state”_ — the idea that the large-scale plans of centralized authorities often break down when faced with complex, local realities.
+
+### prompts
 
 ### research categories
 
@@ -35,6 +35,8 @@ interesting, because
 > Second, Wikipedia has historically used automated moderation tools [52], but there are contentious internal debates about the use of ChatGPT [14].
 
 ### Why such a weak dection capabilits?
+
+> LLMs struggled with bias detection, achieving only 64% accuracy
 
 > Analysis of LLM rationales and errors suggested LLMs relied (sometimes to a fault) on simple heuristics like the presence of a highly subjective adjective.
 
@@ -76,10 +78,11 @@ interesting, because
 
 even split between biased/non biased from each of article category (STEM, Culture, Geography....)
 
-### experiment
+### detection experiment
 
 > (...) conducted a multi-model prompt experiment (N = 5,348 annotations) where the task was to classify if a given Wikipedia edit was biased or neutral.
 
+> To steer models towards specific norms and values, there is a growing trend of stating high-level rules as prompts.
 > 3.2.1 Factor 1: Definitions Provided (minimal / NPOV / NPOV-Scoped, where additional bias information is provided)
 > 3.2.2 Factor 2: Examples Provided. (few-shot)
 
