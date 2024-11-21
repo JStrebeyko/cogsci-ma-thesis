@@ -2,9 +2,13 @@
 
 # Wikipedia
 
+## NPOV
+
+- [ ] [Is the Wikipedia Neutral?](https://reagle.org/joseph/2005/06/neutrality.html)
+
 ## LLMs, NPOV
 
-- [ ] ⭐ [Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)
+- [x] ⭐ ~[Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms](https://arxiv.org/abs/2407.04183)~
 
 ## AI
 
@@ -71,6 +75,7 @@ making a situation more difficult to newcomers.
 
 ## bias detection
 
+- [] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
 - [] [Automated identification of media bias in news articles: an interdisciplinary literature review](https://link.springer.com/article/10.1007/s00799-018-0261-y)
 - [] [An Interdisciplinary Approach for the Automated Detection and Visualization of Media Bias in News Articles](https://arxiv.org/pdf/2112.13352)
 
@@ -106,3 +111,12 @@ making a situation more difficult to newcomers.
 ### desinformation
 
 - [Jigsaw's The Current: Disinformation](https://current.withgoogle.com/the-current/disinformation/) (seek _references_, _theories_, _events_)
+
+## others
+
+- [ ] [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
+- [ ] [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs through a Global Scale Prompt Hacking Competition](https://arxiv.org/abs/2311.16119)
+- [ ] [Attention Heads of Large Language Models: A Survey](https://arxiv.org/pdf/2409.03752)
+- [ ] [The Llama 3 Herd of Models](https://arxiv.org/pdf/2407.21783)
+- [ ] [System Design for Recommendations and Search // Eugene Yan // MLOps Meetup #78](https://www.youtube.com/watch?v=lh9CNRDqKBk)
+- [ ] [Fact, Fetch, and Reason: A Unified Evaluation of Retrieval-Augmented Generation](https://arxiv.org/abs/2409.12941)
