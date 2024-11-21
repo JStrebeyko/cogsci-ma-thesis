@@ -159,7 +159,11 @@ see like ai [reading](./references/00_see_like_ai.md)
 
 finish [reading](./references/00_see_like_ai.md), new ideas
 
-TODO
+## 21
+
+cleanup tasks
+finish digests
+extract steps from [the reading](./references/00_see_like_ai.md)
 
 ### data
 
