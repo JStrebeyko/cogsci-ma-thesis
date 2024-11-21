@@ -1,4 +1,9 @@
-# background
+# Seeing Like an AI: How LLMs Apply (and Misapply) Wikipedia Neutrality Norms
+
+Joshua Ashkinaze, Ruijia Guan, Laura Kurek, Eytan Adar, Ceren Budak, Eric Gilbert
+https://arxiv.org/abs/2407.04183
+
+## background
 
 > mirrors earlier debates in human-AI interaction and beyond. For instance,Lucy Suchman’s 1987 “Plans and Situated Actions” frameworkcontrasted predetermined procedures derived from universal principles (“plans”) with context-dependent actions based on concrete circumstances (“situated actions”). She argued that AI systems execute plans, while humans perform situated actions. This distinction relates to James Scott’s [41] concept of _“seeing like a state”_ — the idea that the large-scale plans of centralized authorities often break down when faced with complex, local realities.
 
@@ -168,6 +173,8 @@ npov: 36, 46
 automatic moderation: 53 (please check)
 text metrics - LIWC: 33, similarity to prompts with SBERT: 38
 by Orme’s rule of thumb: 31
+
+34
 
 NPOV
 
