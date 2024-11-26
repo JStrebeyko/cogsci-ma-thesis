@@ -163,7 +163,28 @@ finish [reading](./references/00_see_like_ai.md), new ideas
 
 - [x] cleanup tasks
 - [x] extract steps from [the reading](./references/00_see_like_ai.md) - create a [notebook](./notebooks/ashkinaze.ipynb)
+
+## 26.11
+
+- [] compare the three texts and extract methods: [Seeing like AI](./references/00_see_like_ai.md), [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709),
+- [] meet the promotor: [notes](./reachout/1126_az.md)
+
+---
+
+## THE TASK STACK
+
+### reachout
+
+- [] set up a meeting with DEMAGOG(AS)
+- [] Reply to WikiResearch, access to ORES?
+
+### reading
+
 - [] Croatian digest
+- [] [Wikimedia data for AI: a review of Wikimedia datasets for NLP tasks and AI-assisted editing](https://arxiv.org/pdf/2410.08918)
+- [] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
+- [] ⭐ [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://cocoxu.github.io/files/EMNLP2021findings_WikiBias.pdf)
+- [] [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://arxiv.org/pdf/2403.14896)
 
 ### data
 
