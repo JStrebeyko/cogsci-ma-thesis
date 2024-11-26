@@ -166,8 +166,17 @@ finish [reading](./references/00_see_like_ai.md), new ideas
 
 ## 26.11
 
-- [] compare the three texts and extract methods: [Seeing like AI](./references/00_see_like_ai.md), [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709),
-- [] meet the promotor: [notes](./reachout/1126_az.md)
+- [x] meet the promotor: [notes](./reachout/1126_az.md) and consider pivots
+
+## 25.11
+
+"Winners write Wikipedia"
+
+- create a simple pipeline
+- [] get wikipedia textual content
+- [] find a useful model (ollama?)
+- [] create the prompting pipeline
+- [] run for 6 persons
 
 ---
 
@@ -185,6 +194,7 @@ finish [reading](./references/00_see_like_ai.md), new ideas
 - [] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
 - [] ⭐ [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://cocoxu.github.io/files/EMNLP2021findings_WikiBias.pdf)
 - [] [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://arxiv.org/pdf/2403.14896)
+- [] compare the three texts and extract methods: [Seeing like AI](./references/00_see_like_ai.md), [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709),
 
 ### data
 
