@@ -7,7 +7,7 @@ https://arxiv.org/abs/2407.04183
 
 > mirrors earlier debates in human-AI interaction and beyond. For instance,Lucy Suchman’s 1987 “Plans and Situated Actions” frameworkcontrasted predetermined procedures derived from universal principles (“plans”) with context-dependent actions based on concrete circumstances (“situated actions”). She argued that AI systems execute plans, while humans perform situated actions. This distinction relates to James Scott’s [41] concept of _“seeing like a state”_ — the idea that the large-scale plans of centralized authorities often break down when faced with complex, local realities.
 
-### prompts
+## prompts
 
 ### research categories
 
@@ -167,16 +167,40 @@ please check
 - could it be easily translated
 - could it be used for fine-tuning
 
-task-specific models of neutralization: 34, 37
-two datasets: 34, 37
-npov: 36, 46
-automatic moderation: 53 (please check)
-text metrics - LIWC: 33, similarity to prompts with SBERT: 38
-by Orme’s rule of thumb: 31
+(31) _Orme, B. Sample size issues for conjoint analysis studies. Sequim: Sawtooth Software Technical Paper (1998)._
 
-34
+- "by Orme's rule of thumb"
 
-NPOV
+(33) _Pennebaker, J. W., Chung, C. K., Ireland, M., Gonzales, A., and Booth, R. J. The Development and Psychometric Properties of LIWC2007. Tech. rep., 2007._
+
+- metrics
+
+(34) ⭐ _Pryzant, R., Martinez, R. D., Dass, N., Kurohashi, S., Jurafsky, D., and Yang, D. Automatically neutralizing subjective bias in text. In Proceedings of the aaai conference on artificial intelligence (Dec. 2020), vol. 34, arXiv, pp. 480–489. Issue: 01._
+
+- task-specific models of neutralization
+- dataset
+- NPOV
+
+(36) _Reagle, J. Is the Wikipedia Neutral?, Apr. 2007._
+
+- NPOV
+
+(37) _Recasens, M., Danescu-Niculescu-Mizil, C., and Jurafsky, D. Linguistic models for analyzing and detecting biased language. In Proceedings of the 51st annual meeting of the Association for Computational Linguistics (volume 1: long papers) (Sofia, Bulgaria, Aug. 2013), H. Schuetze, P. Fung, and M. Poesio, Eds., Association for Computational Linguistics, pp. 1650–1659._
+
+- dataset
+
+(38) _Reimers, N., and Gurevych, I. Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks, Aug. 2019._
+
+- similarity to prompts with SBERT
+
+(46) _Swarts, J. The collaborative construction of "fact" on Wikipedia. In Proceedings of the 27th ACM international conference on Design of communication (Bloomington Indiana USA, Oct. 2009), ACM, pp. 281–288._
+
+- NPOV
+- task-specific models of neutralization
+
+(53) _Wikipedia. Wikipedia: WikiTrust, 2024._
+
+- automatic moderation
 
 ```md
 # B.4 Detection: LLM Bootstrapped Prompt (NPOV-Scoped)

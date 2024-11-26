@@ -76,6 +76,7 @@ making a situation more difficult to newcomers.
 ## bias detection
 
 - [] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
+- [] ⭐ [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://cocoxu.github.io/files/EMNLP2021findings_WikiBias.pdf)
 - [] [Automated identification of media bias in news articles: an interdisciplinary literature review](https://link.springer.com/article/10.1007/s00799-018-0261-y)
 - [] [An Interdisciplinary Approach for the Automated Detection and Visualization of Media Bias in News Articles](https://arxiv.org/pdf/2112.13352)
 
@@ -93,8 +94,8 @@ making a situation more difficult to newcomers.
 
 ## stance detection
 
-- [] ⭐ [Stance Detection on Social Media: State of the Art and Trends](https://arxiv.org/pdf/2006.03644) - siminlgy good intro
-- [] ⭐ [Stance detection: a practical guide to classifying political beliefs in text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E227E746BD7D9751526DA0EC2C378787/S2049847024000359a.pdf/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text.pdf)
+- [] [Stance Detection on Social Media: State of the Art and Trends](https://arxiv.org/pdf/2006.03644) - siminlgy good intro
+- [] [Stance detection: a practical guide to classifying political beliefs in text](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E227E746BD7D9751526DA0EC2C378787/S2049847024000359a.pdf/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text.pdf)
 
 - [] [Infusing Knowledge from Wikipedia to Enhance Stance Detection](https://arxiv.org/pdf/2204.03839v1)
 
