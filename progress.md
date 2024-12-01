@@ -178,6 +178,20 @@ finish [reading](./references/00_see_like_ai.md), new ideas
 - [] create the prompting pipeline
 - [] run for 6 persons
 
+
+### 30.11
+
+
+Continuing pivot - setting up the summarization and embedding models using `ollama` on colab.
+
+
+### 1.12
+
+
+
+- [ ] include a metric, prompt engineer summarization
+- [ ] send the colab to A
+
 ---
 
 ## THE TASK STACK
