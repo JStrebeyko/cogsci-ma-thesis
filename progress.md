@@ -178,21 +178,28 @@ finish [reading](./references/00_see_like_ai.md), new ideas
 - [] create the prompting pipeline
 - [] run for 6 persons
 
-
 ### 30.11
-
 
 Continuing pivot - setting up the summarization and embedding models using `ollama` on colab.
 
-
 ### 1.12
 
-
-
+- [x] send the colab to A
 - [ ] include a metric, prompt engineer summarization
-- [ ] send the colab to A
+      pivot
 
 ---
+
+### 8.12
+
+- [x] improving the pipeline, cleaning the wiki data a bit
+- [] inspecting the comparisons
+
+- [] preparing to do the "rough-emotional" compression of bios (2.1)
+
+Q: Wouldn't it be awesome to calculate the article intro vs the rest mismatch _with actual maths_???
+
+- drawing the relation as two "spheres in the vector space"
 
 ## THE TASK STACK
 
