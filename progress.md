@@ -201,6 +201,12 @@ Q: Wouldn't it be awesome to calculate the article intro vs the rest mismatch _w
 
 - drawing the relation as two "spheres in the vector space"
 
+### 241226
+
+new take ([notebook](./notebooks/02_pivot_first_paragraph/21_is_biogram_biased_considering_this.ipynb))
+
+- [x] create `./scripts` and move answer retrieval there
+
 ## THE TASK STACK
 
 ### reachout
