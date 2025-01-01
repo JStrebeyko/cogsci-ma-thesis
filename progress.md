@@ -207,6 +207,25 @@ new take ([notebook](./notebooks/02_pivot_first_paragraph/21_is_biogram_biased_c
 
 - [x] create `./scripts` and move answer retrieval there
 
+  - allows for importing variables from `.py` files, but I see no IDE support (resulting in a "[variable] not found" error)
+
+- [x] Respond to Demagog through A. Sz
+
+### 250101
+
+- [x] read about [SPINACH](https://meta.wikimedia.org/wiki/Research:Newsletter/2024/November)
+- it is cool see how powerful the `SPARQL` is for parsing the Knowledge Graph is;
+- good work, Ms. Lam! state-of-the-art retrieval by grounding in Wikipedia a finetuned OpenLLama model;
+- cool [initiative](https://diff.wikimedia.org/2024/09/23/wikidata-and-artificial-intelligence-simplified-access-to-open-data-for-open-source-projects/) by `Wikimedia Deutchland` and `Jina AI` + `DataStax`: opening wikipedia's /vectorized/ knowledge, infrastructure for providing semantic embeddings of the site's content. Beta tests in 2025!
+  - WATCH [THE VIDEO](https://www.youtube.com/watch?v=r7Qbb1yuLkE);
+- found a paper: [automatic quality assessment of wikipedia articles - literature revirew](https://dl.acm.org/doi/10.1145/3625286)
+- [x] consider, whether it is valuable - not _that_ useful in the context of preventing mass edits. It is great for improved retrieval!
+- as per Chris A., the Wikimedia ML Engineer, you cannot ask models (say, `engoodfaith`) about arbitrary text using API only. Apparently, these are containers that do the pre-processing to pass in the strings to the model
+- [x] ✖ check the containers for the models on LiftWing - is is possible to edit them to accept pure text?
+  - they come as a docker image. I tried extracting it using `docker save` into a `.tar`. Upon inspection besides a manifest these are just opaque blobs, unreadable. What makes sense in many ways (compression, sort of secrecy even?)
+- [x] try to copy-paste paragraphs ("the rest") to a more effective model, see whether it is capable to produce a "5 adjectives only" output;
+  - Roosevelt's too long to copy into [ChatGTP](chat.com)
+
 ## THE TASK STACK
 
 ### reachout
