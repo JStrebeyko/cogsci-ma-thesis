@@ -1,0 +1,439 @@
+id,datetime,minor,size,comment,user,delta
+75182906,2024-11-08 19:16:28+00:00,True,44354,jęz.,"{'id': 1223740, 'name': 'Okoń prawdziwy'}",130.0
+75182835,2024-11-08 19:07:44+00:00,True,44224,jęz.,"{'id': 1223740, 'name': 'Okoń prawdziwy'}",83.0
+74546507,2024-08-15 10:34:43+00:00,True,44141,poprawa linku,"{'id': 31213, 'name': 'Kynikos'}",37.0
+74535161,2024-08-13 13:51:26+00:00,True,44104,link,"{'id': 31213, 'name': 'Kynikos'}",10.0
+74458938,2024-08-01 00:22:16+00:00,False,44094,W różnych częściach osiedlano wysiedleńców z kresowej części Galicji.,"{'id': 1250464, 'name': 'Brandbandv'}",-187.0
+73817838,2024-05-20 16:16:20+00:00,True,44281,,"{'id': 1180391, 'name': 'Onyx736'}",14.0
+73673918,2024-05-01 12:11:31+00:00,False,44267,drobne techniczne,"{'id': 467845, 'name': 'Paweł Ziemian'}",-196.0
+73580956,2024-04-23 07:27:51+00:00,True,44463,Bot: Dodanie tytułów do linków w przypisach (patrz [[Wikipedysta:MastiBot/refLinks|opis]]),"{'id': 126431, 'name': 'MastiBot'}",427.0
+73118965,2024-03-13 17:12:41+00:00,False,44036,Anulowanie wersji [[Special:Diff/73118172|73118172]] autorstwa [[Special:Contributions/Sdbuanet|Sdbuanet]] ([[User talk:Sdbuanet|dyskusja]]) powtórzenie - info jest już w tekscie. uźródłowione,"{'id': 63206, 'name': 'Andros64'}",-838.0
+73118172,2024-03-13 15:07:56+00:00,False,44874,"/* II Rzeczpospolita */ lit., aktualizacja, linki zewnętrzne, poprawa linków, [[Pomoc:Słowniczek#W|wikizacja]]","{'id': 227657, 'name': 'Sdbuanet'}",838.0
+73117970,2024-03-13 14:31:52+00:00,False,44036,"Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/Sdbuanet|Sdbuanet]]) i przywrócono wersję 72523161 autorstwa W2k2 (Bezźródłowy esej propagandowy, który m.in próbuje odebrać odrębną tożsamość etniczną Łemków)","{'id': 1017413, 'name': 'Szturnek'}",-2507.0
+73116935,2024-03-13 12:04:00+00:00,False,46543,"/* II Rzeczpospolita */ sprawdzone, poprawa linków, linki zewnętrzne, aktualizacja","{'id': 227657, 'name': 'Sdbuanet'}",2507.0
+72523161,2024-01-16 07:30:17+00:00,False,44036,Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/2A00:F41:899:BDB5:252F:2FE8:AC11:DA33|2A00:F41:899:BDB5:252F:2FE8:AC11:DA33]]) i przywrócono wersję 71938705 autorstwa MalarzBOT,"{'id': 300759, 'name': 'W2k2'}",-46.0
+72422387,2024-01-06 18:09:31+00:00,False,44082,/* II Rzeczpospolita */propozycja integracji,"{'id': None, 'name': '2A00:F41:899:BDB5:252F:2FE8:AC11:DA33'}",46.0
+71938705,2023-11-25 16:40:39+00:00,True,44036,MalarzBOT: regeneracja szablonu {{[[Szablon:Kraina historyczna infobox|Kraina historyczna infobox]]}},"{'id': 31007, 'name': 'MalarzBOT'}",268.0
+71936913,2023-11-25 12:41:14+00:00,True,43768,dr,"{'id': 19873, 'name': 'Malarz pl'}",-8.0
+69882830,2023-03-18 10:19:38+00:00,True,43776,szablon,"{'id': 1066263, 'name': 'Himislav12'}",31.0
+69817249,2023-03-09 15:46:16+00:00,True,43745,[[WP:MARTWE|poprawa martwych linków zewnętrznych]],"{'id': 803317, 'name': 'Szoltys-bot'}",34.0
+69628480,2023-02-19 13:12:39+00:00,False,43711,infobox,"{'id': 1066263, 'name': 'Himislav12'}",544.0
+68951674,2022-12-08 11:07:39+00:00,True,43167,Wycofanie edycji użytkownika [[Special:Contributions/94.246.191.90|94.246.191.90]] ([[User talk:94.246.191.90|dyskusja]]). Autor przywróconej wersji to [[User:Paweł Ziemian BOT|Paweł Ziemian BOT]].,"{'id': 63206, 'name': 'Andros64'}",1.0
+68951007,2022-12-08 08:17:57+00:00,False,43166,/* II Rzeczpospolita */ akt.,"{'id': None, 'name': '94.246.191.90'}",-1.0
+68662716,2022-11-04 22:09:45+00:00,True,43167,poprawiam wartość ISBN,"{'id': 661950, 'name': 'Paweł Ziemian BOT'}",-1.0
+68490946,2022-10-12 23:20:01+00:00,True,43168,[[WP:MARTWE|poprawa martwych linków zewnętrznych]],"{'id': 803317, 'name': 'Szoltys-bot'}",57.0
+68483748,2022-10-12 06:23:31+00:00,True,43111,MalarzBOT: kategoria Polskie krainy historyczne została przeniesiona do [[:Kategoria:Regiony historyczne Polski|Regiony historyczne Polski]],"{'id': 31007, 'name': 'MalarzBOT'}",0.0
+66857661,2022-04-10 19:23:22+00:00,False,43111,lit.,"{'id': 657584, 'name': 'Braniewiak'}",1.0
+66169501,2022-02-01 20:15:05+00:00,True,43110,[[WP:SK]]+[[WP:SK/Bn|Bn]]+[[WP:SK/mSI|mSI.v2]],"{'id': 64, 'name': 'Beno'}",17.0
+65843282,2022-01-06 13:30:27+00:00,False,43093,Popr.,"{'id': 397510, 'name': 'Adm02'}",6.0
+65759047,2021-12-28 18:55:18+00:00,False,43087,/* Okupacja sowiecka 1944–1945 i wcielenie do ZSRR */,"{'id': 1125029, 'name': 'Evropea'}",5.0
+65759043,2021-12-28 18:54:11+00:00,False,43082,/* Okupacja sowiecka 1944–1945 i wcielenie do ZSRR */,"{'id': 1125029, 'name': 'Evropea'}",204.0
+65759014,2021-12-28 18:48:49+00:00,False,42878,/* Okupacja sowiecka 1944–1945 i wcielenie do ZSRR */,"{'id': 1125029, 'name': 'Evropea'}",55.0
+65663197,2021-12-20 21:42:18+00:00,False,42823,półautomatyczna zamiana „SSR” na „SRR”,"{'id': 616438, 'name': 'PBbot'}",0.0
+65508627,2021-12-03 22:57:03+00:00,True,42823,int.,"{'id': 717975, 'name': 'EmptyBot'}",1.0
+63557299,2021-06-03 01:50:17+00:00,False,42822,Rescuing 1 sources and tagging 0 as dead.) #IABot (v2.0.8,"{'id': 981593, 'name': 'InternetArchiveBot'}",43.0
+63198462,2021-05-04 06:34:48+00:00,True,42779,"wtedy, gdy przy użyciu [[Project:AWB|AWB]]","{'id': 511, 'name': 'Stok'}",-1.0
+62532800,2021-03-05 17:08:30+00:00,True,42780,/* Austria */ ort. wyznawca judaizmu pisze się przez małe ż,"{'id': 850162, 'name': 'Donatus Polonorum'}",0.0
+62217132,2021-02-01 10:12:06+00:00,False,42780,,"{'id': None, 'name': '213.146.33.51'}",-21.0
+62217116,2021-02-01 10:09:29+00:00,False,42801,,"{'id': None, 'name': '213.146.33.51'}",21.0
+62195204,2021-01-30 11:44:45+00:00,False,42780,/* Austria */ [[łacinnicy]] link,"{'id': 18194, 'name': 'D T G'}",15.0
+60517426,2020-07-30 22:53:59+00:00,True,42765,drobne redakcyjne,"{'id': 486649, 'name': 'CzakNoris'}",157.0
+60101165,2020-06-16 14:49:42+00:00,True,42608,Bot poprawia odwołania do strony prawo.sejm.gov.pl,"{'id': 126431, 'name': 'MastiBot'}",0.0
+59665379,2020-05-03 22:23:07+00:00,True,42608,Anulowanie wersji 59665142 autorstwa [[Special:Contributions/Qqq1000|Qqq1000]] ([[User talk:Qqq1000|dyskusja]]),"{'id': 63206, 'name': 'Andros64'}",3012.0
+59665142,2020-05-03 21:54:05+00:00,False,39596,"zbędne, nieency","{'id': 981323, 'name': 'Qqq1000'}",-3012.0
+59167511,2020-03-23 02:31:42+00:00,True,42608,Tworzę [[Szablon:Cytuj]],"{'id': 661950, 'name': 'Paweł Ziemian BOT'}",155.0
+59035433,2020-03-11 12:36:45+00:00,False,42453,"drobne merytoryczne, drobne redakcyjne, poszerzona treść","{'id': None, 'name': '2A00:F41:5803:41C1:0:57:3340:D401'}",2893.0
+58177721,2019-12-05 11:00:32+00:00,False,39560,/* Austria */ Poprawiono literówkę,"{'id': None, 'name': '5.173.26.140'}",0.0
+58082517,2019-11-25 01:54:02+00:00,False,39560,drobne merytoryczne,"{'id': 981323, 'name': 'Qqq1000'}",1916.0
+56932709,2019-06-22 13:14:48+00:00,False,37644,Anulowanie wersji 56931100 autorstwa [[Special:Contributions/212.182.114.218|212.182.114.218]] ([[User talk:212.182.114.218|dyskusja]])Przeglądający redaktor twierdzi co innego,"{'id': 219980, 'name': 'Tokyotown8'}",5.0
+56931100,2019-06-22 09:52:40+00:00,False,37639,Anulowanie wersji 56856018 autorstwa [[Special:Contributions/195.181.165.242|195.181.165.242]] ([[User talk:195.181.165.242|dyskusja]]) w podanym źródle nie ma ww. wartości,"{'id': None, 'name': '212.182.114.218'}",-5.0
+56856018,2019-06-11 00:41:41+00:00,False,37644,Nowe i dodatkowe dane podajemy poprzez dopisywanie a nie zastępowanie starych. Przywrócenie wersji z dnia 2019-04-19 19:34 podającej dane zgodne z przypisami. Dodanie dodatkowego przypisu.,"{'id': None, 'name': '195.181.165.242'}",5.0
+56709887,2019-05-19 23:49:30+00:00,False,37639,drobne merytoryczne,"{'id': None, 'name': '94.254.169.162'}",134.0
+56482258,2019-04-19 17:34:34+00:00,True,37505,Wycofano edycje użytkownika [[Special:Contributions/5.173.24.206|5.173.24.206]] ([[User talk:5.173.24.206|dyskusja]]). Autor przywróconej wersji to [[:User:AndrzeiBOT|AndrzeiBOT]].,"{'id': 17612, 'name': 'PawełMM'}",957.0
+56482232,2019-04-19 17:29:39+00:00,False,36548,,"{'id': None, 'name': '5.173.24.206'}",-957.0
+56377913,2019-04-05 23:19:20+00:00,True,37505,Bot poprawia linkowanie wewnętrzne oraz inne drobne sprawy,"{'id': 705096, 'name': 'AndrzeiBOT'}",-15.0
+56361543,2019-04-03 22:29:50+00:00,True,37520,Bot poprawia linkowanie wewnętrzne oraz inne drobne sprawy,"{'id': 705096, 'name': 'AndrzeiBOT'}",3.0
+56100776,2019-03-08 13:23:11+00:00,True,37517,MalarzBOT: WPCHECK#64: poprawiam link tożsamy z tekstem linka,"{'id': 31007, 'name': 'MalarzBOT'}",-7.0
+56091059,2019-03-07 06:17:00+00:00,True,37524,/* Austria */ .,"{'id': 916514, 'name': 'Smutne Memy'}",11.0
+56091055,2019-03-07 06:15:37+00:00,False,37513,/* Austria */,"{'id': 916514, 'name': 'Smutne Memy'}",0.0
+55299725,2018-12-16 23:17:34+00:00,True,37513,Bot poprawia linki wewnętrzne oraz wykonuje drobne zmiany typograficzne i technicznne..,"{'id': 705096, 'name': 'AndrzeiBOT'}",10.0
+55287352,2018-12-15 14:56:26+00:00,False,37503,źródła/przypisy,"{'id': 486649, 'name': 'CzakNoris'}",366.0
+55281911,2018-12-14 16:56:27+00:00,False,37137,Wersja kompromisowa dla obu stron wojny,"{'id': 486649, 'name': 'CzakNoris'}",169.0
+55280505,2018-12-14 13:34:14+00:00,True,36968,"Zabezpieczył „[[Galicja Wschodnia]]”: Wojna edycyjna ([edytowanie=Dozwolone tylko dla użytkowników automatycznie zatwierdzonych] (wygasa 13:34, 21 gru 2018 (UTC)) [przenoszenie=Dozwolone tylko dla użytkowników automatycznie zatwierdzonych] (wygasa 13:34, 21 gru 2018 (UTC)))","{'id': 219980, 'name': 'Tokyotown8'}",0.0
+55280497,2018-12-14 13:33:12+00:00,False,36968,Anulowanie wersji 55280489 autorstwa [[Special:Contributions/212.191.88.193|212.191.88.193]] ([[User talk:212.191.88.193|dyskusja]]wojna edycyjna plus dodawanie informacji bez źródeł),"{'id': 219980, 'name': 'Tokyotown8'}",-1080.0
+55280489,2018-12-14 13:31:21+00:00,False,38048,Anulowanie wersji 55272099 autorstwa [[Special:Contributions/IvanBelz|IvanBelz]] ([[User talk:IvanBelz|dyskusja]]),"{'id': None, 'name': '212.191.88.193'}",1080.0
+55272099,2018-12-13 13:36:04+00:00,False,36968,Anulowanie wersji 55262283 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]]),"{'id': 929473, 'name': 'IvanBelz'}",-1080.0
+55262283,2018-12-11 22:11:11+00:00,False,38048,drobne redakcyjne,"{'id': 128014, 'name': 'Kamilhrub'}",1080.0
+55110479,2018-11-24 14:34:55+00:00,False,36968,Anulowanie wersji 55109323 autorstwa [[Special:Contributions/Mix321|Mix321]] ([[User talk:Mix321|dyskusja]]),"{'id': None, 'name': '169.57.185.68'}",-186.0
+55109323,2018-11-24 11:17:05+00:00,False,37154,Anulowanie wersji 55095148 autorstwa [[Special:Contributions/169.57.185.68|169.57.185.68]] ([[User talk:169.57.185.68|dyskusja]]),"{'id': 13668, 'name': 'Mix321'}",186.0
+55095148,2018-11-22 11:16:05+00:00,False,36968,drobne merytoryczne,"{'id': None, 'name': '169.57.185.68'}",-186.0
+55093335,2018-11-21 23:47:25+00:00,False,37154,drobne merytoryczne,"{'id': None, 'name': '94.254.161.129'}",894.0
+55063872,2018-11-18 01:27:42+00:00,True,36260,"Zabezpieczył „[[Galicja Wschodnia]]”: wojna edycyjna ([edytowanie=Dozwolone tylko dla administratorów] (wygasa 01:27, 21 lis 2018 (UTC)) [przenoszenie=Dozwolone tylko dla administratorów] (wygasa 01:27, 21 lis 2018 (UTC)))","{'id': 219980, 'name': 'Tokyotown8'}",0.0
+55063871,2018-11-18 01:27:28+00:00,False,36260,"Anulowanie wersji 55058132 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]])uzupełniamy informacje, nie usuwamy te, które nam nie pasują","{'id': 219980, 'name': 'Tokyotown8'}",-227.0
+55058132,2018-11-17 21:10:13+00:00,False,36487,Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/IvanBelz|IvanBelz]]) i przywrócono wersję 55057525 autorstwa Kamilhrub,"{'id': 128014, 'name': 'Kamilhrub'}",227.0
+55057558,2018-11-17 19:42:09+00:00,False,36260,Anulowanie wersji 55057525 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]]),"{'id': 929473, 'name': 'IvanBelz'}",-227.0
+55057525,2018-11-17 19:37:55+00:00,True,36487,Wycofano edycje użytkownika [[Special:Contributions/IvanBelz|IvanBelz]] ([[User talk:IvanBelz|dyskusja]]). Autor przywróconej wersji to [[:User:Kamilhrub|Kamilhrub]].,"{'id': 128014, 'name': 'Kamilhrub'}",227.0
+55057506,2018-11-17 19:34:46+00:00,False,36260,Przywrócenie wersji autora Paweł Ziemian BOT z dnia 2018-05-19 17:57:19,"{'id': 929473, 'name': 'IvanBelz'}",-227.0
+55057436,2018-11-17 19:24:17+00:00,True,36487,Wycofano edycje użytkownika [[Special:Contributions/IvanBelz|IvanBelz]] ([[User talk:IvanBelz|dyskusja]]). Autor przywróconej wersji to [[:User:Kamilhrub|Kamilhrub]].,"{'id': 128014, 'name': 'Kamilhrub'}",227.0
+55057115,2018-11-17 18:40:07+00:00,False,36260,"Anulowanie wersji 55056698 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]] - wandalizm): Szacunki równoległe podajemy na zasadzie uzupełnienia, a nie usuwania uźródłowionych danych.","{'id': 929473, 'name': 'IvanBelz'}",-227.0
+55056698,2018-11-17 17:36:20+00:00,False,36487,Anulowanie wersji 55055951 autorstwa [[Special:Contributions/185.76.10.150|185.76.10.150]] ([[User talk:185.76.10.150|dyskusja]]) wandalizm,"{'id': 128014, 'name': 'Kamilhrub'}",227.0
+55055951,2018-11-17 15:32:26+00:00,False,36260,"Anulowanie wersji 55052737 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]]): Szacunki równoległe podajemy na zasadzie uzupełnienia, a nie usuwania uźródłowionych danych.","{'id': None, 'name': '185.76.10.150'}",-227.0
+55052737,2018-11-16 23:47:15+00:00,False,36487,Dodanie bezpośredniego źródła - wyników spisu ludności z 1910,"{'id': 128014, 'name': 'Kamilhrub'}",227.0
+55050172,2018-11-16 16:39:33+00:00,False,36260,Anulowanie wersji 55050098 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]]),"{'id': None, 'name': '162.219.176.101'}",-25.0
+55050098,2018-11-16 16:28:31+00:00,False,36285,"drobne merytoryczne, poprawa źródeł","{'id': 128014, 'name': 'Kamilhrub'}",25.0
+55049950,2018-11-16 16:08:17+00:00,False,36260,[[WP:POP|Popups]]: Przywrócenie wersji autora Paweł Ziemian BOT z dnia 2018-05-19 16:57:19,"{'id': 63206, 'name': 'Andros64'}",133.0
+55049820,2018-11-16 15:58:49+00:00,False,36127,Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/31.24.225.36|31.24.225.36]]) i przywrócono wersję 55049320 autorstwa Kamilhrub - brak źródła,"{'id': 128014, 'name': 'Kamilhrub'}",-133.0
+55049689,2018-11-16 15:50:02+00:00,False,36260,Anulowanie wersji 55049320 autorstwa [[Special:Contributions/Kamilhrub|Kamilhrub]] ([[User talk:Kamilhrub|dyskusja]]),"{'id': None, 'name': '31.24.225.36'}",133.0
+55049320,2018-11-16 14:42:08+00:00,False,36127,drobne merytoryczne,"{'id': 128014, 'name': 'Kamilhrub'}",-133.0
+53494645,2018-05-19 16:57:19+00:00,True,36260,Tworzę [[Szablon:Cytuj]],"{'id': 661950, 'name': 'Paweł Ziemian BOT'}",140.0
+51658249,2018-01-17 05:59:31+00:00,True,36120,"Redukuję wywołanie [[Szablon:Uwagi]] i dodaję nagłówek, redukuję wywołanie [[Szablon:Przypisy]] i dodaję nagłówek","{'id': 661950, 'name': 'Paweł Ziemian BOT'}",23.0
+51392248,2017-12-28 20:53:04+00:00,False,36097,/* II Rzeczpospolita */,"{'id': 471642, 'name': 'The Polish'}",-47.0
+50293369,2017-09-05 23:31:01+00:00,True,36144,"prawidłowy zapis ""niemające""","{'id': 717975, 'name': 'EmptyBot'}",9.0
+49129540,2017-04-20 16:25:58+00:00,True,36135,/* Linki zewnętrzne */bot poprawia martwe linki zewnętrzne,"{'id': 803317, 'name': 'Szoltys-bot'}",-50.0
+48573896,2017-02-18 17:59:43+00:00,False,36185,poprawa linków,"{'id': 804510, 'name': 'Zdzisław'}",69.0
+48322815,2017-01-25 11:07:41+00:00,True,36116,/* [[Zachodnioukraińska Republika Ludowa]] i [[wojna polsko-ukraińska]] */zmiana linku z przekierowania na artykuł właściwy,"{'id': 717975, 'name': 'EmptyBot'}",4.0
+48322268,2017-01-25 10:53:05+00:00,True,36112,/* [[Zachodnioukraińska Republika Ludowa]] i [[wojna polsko-ukraińska]] */zmiana linku z przekierowania na artykuł właściwy,"{'id': 717975, 'name': 'EmptyBot'}",4.0
+47834655,2016-12-11 09:40:30+00:00,True,36108,"zamieniam magiczny ISBN na szablon, są błędy cyfry kontrolnej","{'id': 661950, 'name': 'Paweł Ziemian BOT'}",68.0
+46484566,2016-08-02 16:24:21+00:00,False,36040,"[[WP:Narzędzia/disFixer|poprawa przek.]], [[Wikipedysta:Sławek Borewicz/hasła z przypisami i bez szablonów cytowania|przeniesienie przypisów rzeczowych do sekcji {{Uwagi}}]]","{'id': 393402, 'name': 'Sławek Borewicz'}",76.0
+46409006,2016-07-23 05:43:33+00:00,False,35964,"lit., [[WP:SK]]","{'id': 70193, 'name': 'Glysiak'}",-17.0
+42078707,2015-03-14 16:27:55+00:00,False,35981,lit.,"{'id': 21505, 'name': 'Swd'}",-4.0
+42078586,2015-03-14 16:13:56+00:00,False,35985,int.,"{'id': 657584, 'name': 'Braniewiak'}",1.0
+42078392,2015-03-14 15:45:51+00:00,True,35984,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-65.0
+42078355,2015-03-14 15:39:18+00:00,False,36049,"usunięcie zbędnych linków do dat, [[WP:SK]]","{'id': 60755, 'name': 'WTM'}",61.0
+41772691,2015-02-11 17:25:06+00:00,True,35988,/* Austria */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",4.0
+41772549,2015-02-11 17:07:43+00:00,False,35984,zmiana miejsc sekcji,"{'id': 573112, 'name': 'Adamosy'}",-2.0
+41625571,2015-01-25 08:19:41+00:00,True,35986,drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",0.0
+41625569,2015-01-25 08:18:59+00:00,True,35986,ilustracja,"{'id': 63206, 'name': 'Andros64'}",208.0
+39826064,2014-07-07 04:36:18+00:00,True,35778,martwy link,"{'id': 510872, 'name': 'Rotlink'}",27.0
+38587912,2014-02-02 11:15:29+00:00,True,35751,Anulowanie wersji 38586860 autora [[Special:Contributions/75.159.244.11|75.159.244.11]] ([[User talk:75.159.244.11|dyskusja]]) nie zmieniamy,"{'id': 63206, 'name': 'Andros64'}",-3.0
+38586860,2014-02-02 08:11:21+00:00,False,35754,/* Okupacja radziecka 1939-1941 */,"{'id': None, 'name': '75.159.244.11'}",3.0
+37853047,2013-11-08 17:06:45+00:00,True,35751,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",23.0
+37743797,2013-10-24 19:32:24+00:00,True,35728,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-1.0
+37743780,2013-10-24 19:30:15+00:00,True,35729,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",4.0
+37395024,2013-08-30 19:31:47+00:00,True,35725,/* Mocarstwa Ententy a ZURL i kwestia Galicji Wschodniej */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-23.0
+37393282,2013-08-30 16:11:01+00:00,True,35748,drobne redakcyjne,"{'id': 63206, 'name': 'Andros64'}",1.0
+37393276,2013-08-30 16:10:23+00:00,True,35747,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ drobne redakcyjne,"{'id': 63206, 'name': 'Andros64'}",51.0
+37393266,2013-08-30 16:08:43+00:00,False,35696,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ uzupełnienie,"{'id': 63206, 'name': 'Andros64'}",5052.0
+37195991,2013-08-03 09:25:50+00:00,False,30644,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */,"{'id': None, 'name': '195.116.41.18'}",11.0
+37059307,2013-07-14 09:18:07+00:00,True,30633,poprawa linków,"{'id': 63206, 'name': 'Andros64'}",45.0
+37055312,2013-07-13 17:36:23+00:00,True,30588,drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-20.0
+37054937,2013-07-13 16:39:53+00:00,True,30608,"drobne merytoryczne,źródło","{'id': 63206, 'name': 'Andros64'}",185.0
+37050213,2013-07-12 20:50:14+00:00,True,30423,styl,"{'id': 63206, 'name': 'Andros64'}",-1.0
+37050185,2013-07-12 20:45:35+00:00,True,30424,"poprawa linków, styl","{'id': 63206, 'name': 'Andros64'}",40.0
+37039979,2013-07-11 11:26:12+00:00,True,30384,lit.,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",1.0
+37039978,2013-07-11 11:25:44+00:00,True,30383,drobne merytoryczne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",222.0
+37039700,2013-07-11 10:45:46+00:00,True,30161,drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",7.0
+37039687,2013-07-11 10:44:37+00:00,True,30154,drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",1.0
+37039686,2013-07-11 10:44:22+00:00,True,30153,drobne redakcyjne,"{'id': 63206, 'name': 'Andros64'}",-4.0
+37039676,2013-07-11 10:43:13+00:00,True,30157,"drobne redakcyjne, drobne merytoryczne","{'id': 63206, 'name': 'Andros64'}",188.0
+37039194,2013-07-11 08:50:44+00:00,True,29969,poprawa linków,"{'id': 63206, 'name': 'Andros64'}",21.0
+37039190,2013-07-11 08:49:37+00:00,True,29948,drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",247.0
+37039144,2013-07-11 08:37:27+00:00,True,29701,drobne merytoryczne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",16.0
+37039118,2013-07-11 08:33:27+00:00,True,29685,"Krosno leży 40 km na zachód od Sanu, a należało do Galicji Wschodniej, więc źródło mówi nieprawdę.","{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-114.0
+37038577,2013-07-11 05:41:59+00:00,False,29799,"drobne merytoryczne, źródła/przypisy","{'id': 220946, 'name': 'Paweł5586'}",114.0
+37038379,2013-07-11 02:27:07+00:00,True,29685,drobne techniczne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-1.0
+37038378,2013-07-11 02:26:32+00:00,True,29686,drobne redakcyjne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-77.0
+37037182,2013-07-10 20:38:12+00:00,False,29763,tekst za źródłem poniżej,"{'id': 220946, 'name': 'Paweł5586'}",79.0
+37032358,2013-07-10 07:19:48+00:00,True,29684,"Pytanie dla rozjaśnienia ciemności umysłu - na którym brzegu Sanu leży Sanok, i gdzie znajdował się sanocki okręg sądowy ?","{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-2.0
+37030590,2013-07-09 20:25:14+00:00,False,29686,a może cofnąć się do Grodów Czerwieńskich? Terytorium jest poniżej,"{'id': 220946, 'name': 'Paweł5586'}",-139.0
+37027600,2013-07-09 12:34:16+00:00,True,29825,drobne redakcyjne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",317.0
+37025712,2013-07-09 06:25:56+00:00,False,29508,drobne redakcyjne,"{'id': 220946, 'name': 'Paweł5586'}",0.0
+37025710,2013-07-09 06:25:05+00:00,False,29508,poprawa linków,"{'id': 220946, 'name': 'Paweł5586'}",-1.0
+37025706,2013-07-09 06:24:29+00:00,False,29509,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-80.0
+37025686,2013-07-09 06:16:57+00:00,False,29589,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",35.0
+37025684,2013-07-09 06:15:59+00:00,False,29554,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",390.0
+37025666,2013-07-09 06:08:13+00:00,False,29164,brak źródeł na nowe teorie,"{'id': 220946, 'name': 'Paweł5586'}",-145.0
+37020260,2013-07-08 10:28:11+00:00,True,29309,/* Austria i Austro-Węgry */ drobne redakcyjne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-16.0
+37020251,2013-07-08 10:27:15+00:00,True,29325,drobne merytoryczne,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",173.0
+37020200,2013-07-08 10:20:48+00:00,True,29152,Usunięcie błędnego twierdzenia,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-28.0
+37019123,2013-07-08 07:21:53+00:00,False,29180,Anulowanie wersji nr 37016020 autora [[Specjalna:Wkład/Sejm Krajowy Galicji|Sejm Krajowy Galicji]],"{'id': 220946, 'name': 'Paweł5586'}",28.0
+37016020,2013-07-07 18:08:37+00:00,True,29152,"Trudno powiedzieć, od kiedy ten termin funkcjonuje. W 1848 roku Główna Rada Ruska postulowała utworzenie osobnego kraju koronnego dla wschodniej części Galicji, ale sam termin ""Galicja Wschodnia"" jeszcze nie wystąpił w dokumencie Rady.","{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",-28.0
+37001615,2013-07-05 18:03:20+00:00,False,29180,od rozbiorów używane,"{'id': 523609, 'name': 'Magyar062'}",2.0
+36997750,2013-07-05 08:55:28+00:00,True,29178,/* II Rzeczpospolita */ lit.,"{'id': 63206, 'name': 'Andros64'}",1.0
+36996645,2013-07-04 23:03:57+00:00,True,29177,dodanie daty do szablonu,"{'id': 217050, 'name': 'AlohaBOT'}",13.0
+36990967,2013-07-04 08:03:11+00:00,True,29164,/* II Rzeczpospolita */ int.,"{'id': 63206, 'name': 'Andros64'}",1.0
+36990957,2013-07-04 08:01:11+00:00,True,29163,"/* II Rzeczpospolita */ drobne merytoryczne, drobne techniczne","{'id': 63206, 'name': 'Andros64'}",81.0
+36990937,2013-07-04 07:56:38+00:00,True,29082,/* II Rzeczpospolita */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",43.0
+36990930,2013-07-04 07:54:30+00:00,True,29039,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",1483.0
+36990871,2013-07-04 07:40:26+00:00,True,27556,/* II Rzeczpospolita */ int.,"{'id': 63206, 'name': 'Andros64'}",-1.0
+36990867,2013-07-04 07:39:28+00:00,True,27557,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",2.0
+36990863,2013-07-04 07:38:45+00:00,True,27555,/* II Rzeczpospolita */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",-6.0
+36990852,2013-07-04 07:37:17+00:00,True,27561,drobne redakcyjne,"{'id': 63206, 'name': 'Andros64'}",11.0
+36990850,2013-07-04 07:36:52+00:00,False,27550,/* II Rzeczpospolita */ uzupełnienie,"{'id': 63206, 'name': 'Andros64'}",4626.0
+36990843,2013-07-04 07:35:21+00:00,True,22924,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",1035.0
+36990738,2013-07-04 07:10:33+00:00,True,21889,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",543.0
+36944271,2013-06-28 13:49:45+00:00,False,21346,,"{'id': 13668, 'name': 'Mix321'}",-66.0
+36943170,2013-06-28 11:41:55+00:00,True,21412,szablon,"{'id': 545683, 'name': 'Sejm Krajowy Galicji'}",75.0
+36942731,2013-06-28 10:23:48+00:00,False,21337,drobne merytoryczne,"{'id': 13668, 'name': 'Mix321'}",217.0
+36940056,2013-06-27 22:42:25+00:00,False,21120,kat.,"{'id': 523609, 'name': 'Magyar062'}",30.0
+36939971,2013-06-27 22:35:49+00:00,False,21090,kat.,"{'id': 523609, 'name': 'Magyar062'}",-74.0
+35870265,2013-03-25 19:12:26+00:00,False,21164,drobne merytoryczne,"{'id': 247220, 'name': 'Pawski'}",-8.0
+35244145,2013-03-13 22:41:38+00:00,True,21172,"[[User:Addbot|Bot:]] Przenoszę linki interwiki (2) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q3573883]]","{'id': 543400, 'name': 'Addbot'}",-63.0
+34832230,2013-02-20 11:57:13+00:00,False,21235,,"{'id': None, 'name': '194.181.106.20'}",39.0
+34612630,2013-02-05 21:31:51+00:00,True,21196,main -> osobny artykuł,"{'id': 534325, 'name': 'TarBot'}",22.0
+34331385,2013-01-20 14:28:29+00:00,True,21174,kat.,"{'id': 63206, 'name': 'Andros64'}",44.0
+33987980,2012-12-28 15:43:30+00:00,True,21130,drobne redakcyjne,"{'id': 64, 'name': 'Beno'}",195.0
+33987010,2012-12-28 14:11:16+00:00,True,20935,/* Okupacja niemiecka 1941-1944 */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-6.0
+33986983,2012-12-28 14:09:19+00:00,True,20941,/* Austria i Austro-Węgry */ lit.,"{'id': 63206, 'name': 'Andros64'}",1.0
+33986976,2012-12-28 14:08:59+00:00,True,20940,/* Austria i Austro-Węgry */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",-11.0
+33986962,2012-12-28 14:08:12+00:00,True,20951,"/* Austria i Austro-Węgry */ drobne merytoryczne, poprawa linków","{'id': 63206, 'name': 'Andros64'}",26.0
+33986931,2012-12-28 14:06:28+00:00,True,20925,/* Austria i Austro-Węgry */ styl,"{'id': 63206, 'name': 'Andros64'}",0.0
+33986916,2012-12-28 14:05:24+00:00,True,20925,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",77.0
+33986797,2012-12-28 13:55:45+00:00,True,20848,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",13.0
+33986788,2012-12-28 13:55:17+00:00,True,20835,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",11.0
+33986780,2012-12-28 13:54:43+00:00,True,20824,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",24.0
+33986765,2012-12-28 13:53:21+00:00,True,20800,/* Okupacja niemiecka 1941-1944 */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",33.0
+33985574,2012-12-28 12:12:59+00:00,True,20767,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ typo,"{'id': 63206, 'name': 'Andros64'}",-4.0
+33985567,2012-12-28 12:11:59+00:00,True,20771,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ styl,"{'id': 63206, 'name': 'Andros64'}",17.0
+33985438,2012-12-28 12:00:34+00:00,True,20754,/* II Rzeczpospolita */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",20.0
+33985424,2012-12-28 11:59:16+00:00,True,20734,/* Okupacja niemiecka 1941-1944 */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-13.0
+33985413,2012-12-28 11:58:31+00:00,True,20747,/* Okupacja niemiecka 1941-1944 */ styl,"{'id': 63206, 'name': 'Andros64'}",-58.0
+33985376,2012-12-28 11:55:09+00:00,True,20805,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ styl,"{'id': 63206, 'name': 'Andros64'}",2.0
+33985369,2012-12-28 11:54:39+00:00,True,20803,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",10.0
+33985360,2012-12-28 11:53:55+00:00,True,20793,"/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,styl","{'id': 63206, 'name': 'Andros64'}",46.0
+33985338,2012-12-28 11:51:55+00:00,True,20747,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ styl,"{'id': 63206, 'name': 'Andros64'}",-106.0
+33985297,2012-12-28 11:48:49+00:00,True,20853,drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-55.0
+33984681,2012-12-28 10:49:59+00:00,False,20908,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ źródło,"{'id': 63206, 'name': 'Andros64'}",379.0
+33984456,2012-12-28 10:27:50+00:00,True,20529,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-49.0
+33430649,2012-11-10 09:51:36+00:00,True,20578,Wycofano edycje użytkownika [[Special:Contributions/213.200.42.203|213.200.42.203]] ([[User talk:213.200.42.203|dyskusja]]). Autor przywróconej wersji to [[User:Pawski|Pawski]].,"{'id': 101097, 'name': 'Sagi2007'}",-8.0
+33430460,2012-11-10 09:17:48+00:00,False,20586,/* Okupacja polska 1919-1939 */,"{'id': None, 'name': '213.200.42.203'}",8.0
+31147775,2012-05-10 14:24:24+00:00,False,20578,poprawa linków,"{'id': 247220, 'name': 'Pawski'}",-38.0
+30744304,2012-04-21 06:31:08+00:00,False,20616,drobne redakcyjne,"{'id': 247220, 'name': 'Pawski'}",22.0
+30744163,2012-04-21 05:58:06+00:00,False,20594,kat.,"{'id': 247220, 'name': 'Pawski'}",10.0
+30738957,2012-04-20 19:29:51+00:00,False,20584,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ Jednostki Armii Czerwonej nie istniejące od 1919,"{'id': 63206, 'name': 'Andros64'}",-303.0
+30738939,2012-04-20 19:28:39+00:00,True,20887,"/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ drobne merytoryczne, poprawa linków","{'id': 63206, 'name': 'Andros64'}",108.0
+30738404,2012-04-20 18:39:54+00:00,True,20779,"/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */, drobne techniczne","{'id': 63206, 'name': 'Andros64'}",-1.0
+30738378,2012-04-20 18:38:14+00:00,True,20780,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ styl,"{'id': 63206, 'name': 'Andros64'}",-5.0
+30738257,2012-04-20 18:27:52+00:00,True,20785,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-2.0
+30738253,2012-04-20 18:27:21+00:00,True,20787,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ styl,"{'id': 63206, 'name': 'Andros64'}",29.0
+30738212,2012-04-20 18:24:04+00:00,True,20758,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ styl,"{'id': 63206, 'name': 'Andros64'}",-1.0
+30738190,2012-04-20 18:22:22+00:00,False,20759,"/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ Państwowość ZURL to nie tylko ""kontrola zbrojna"" ale cywilna administracja państwowa na terenie Galicji","{'id': 63206, 'name': 'Andros64'}",-35.0
+30738133,2012-04-20 18:17:42+00:00,False,20794,poprawa,"{'id': 138287, 'name': 'Bogic'}",41.0
+29777644,2012-02-08 13:01:44+00:00,True,20753,"Zabezpieczył [[Galicja Wschodnia]]: wojna edycyjna ([edit=sysop] (wygasa 13:01, 15 lut 2012 (UTC)) [move=sysop] (wygasa 13:01, 15 lut 2012 (UTC)))","{'id': 139824, 'name': 'Loraine'}",0.0
+29777639,2012-02-08 13:01:25+00:00,True,20753,wracamy do stanu sprzed wojny,"{'id': 139824, 'name': 'Loraine'}",67.0
+29777264,2012-02-08 12:26:31+00:00,False,20686,"/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ rząd ZURL przestał istnieć w marcu 1923, państwowość de facto w VIII 1919","{'id': 63206, 'name': 'Andros64'}",-68.0
+29777210,2012-02-08 12:21:36+00:00,True,20754,Wycofano edycje użytkownika [[Special:Contributions/Andros64|Andros64]] ([[User talk:Andros64|dyskusja]]). Autor przywróconej wersji to [[User:Pawski|Pawski]].,"{'id': 247220, 'name': 'Pawski'}",65.0
+29777191,2012-02-08 12:20:33+00:00,False,20689,Anulowanie wersji nr 29774687 autora [[Specjalna:Wkład/Pawski|Pawski]] [[ZURL]] był państwem na terytorium Galicji Wschodniej,"{'id': 63206, 'name': 'Andros64'}",-65.0
+29774687,2012-02-08 08:20:05+00:00,False,20754,"Anulowanie wersji nr 29771080 autora [[Specjalna:Wkład/Andros64|Andros64]], przeczytaj Pan tytuł hasła","{'id': 247220, 'name': 'Pawski'}",65.0
+29771080,2012-02-07 20:49:24+00:00,False,20689,"Anulowanie wersji nr 29770743 autora [[Specjalna:Wkład/Pawski|Pawski]] to jest upadek państwości, a nie ma wątpliwości,ze było to państwo","{'id': 63206, 'name': 'Andros64'}",-65.0
+29770743,2012-02-07 20:24:09+00:00,False,20754,ale 800 kilometrów na zachód - w Wiedniu,"{'id': 247220, 'name': 'Pawski'}",65.0
+29770632,2012-02-07 20:13:42+00:00,False,20689,drobne redakcyjne,"{'id': 247220, 'name': 'Pawski'}",56.0
+29767564,2012-02-07 16:19:32+00:00,False,20633,władze ZURL funkcjonowały do marca 1923,"{'id': 63206, 'name': 'Andros64'}",-65.0
+29767520,2012-02-07 16:16:41+00:00,False,20698,drobne merytoryczne - i później,"{'id': 63206, 'name': 'Andros64'}",-55.0
+29691471,2012-02-01 13:47:46+00:00,False,20753,"drobne merytoryczne, drobne redakcyjne, przypis","{'id': 247220, 'name': 'Pawski'}",842.0
+29354013,2012-01-07 21:12:27+00:00,False,19911,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",27.0
+29353500,2012-01-07 20:34:06+00:00,True,19884,int.,"{'id': 63206, 'name': 'Andros64'}",2.0
+29353496,2012-01-07 20:33:39+00:00,False,19882,"definicja,źródło","{'id': 63206, 'name': 'Andros64'}",407.0
+29352504,2012-01-07 19:15:55+00:00,True,19475,/* Okupacja niemiecka 1941-1944 */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",-49.0
+29352493,2012-01-07 19:14:56+00:00,True,19524,/* Okupacja niemiecka 1941-1944 */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",67.0
+29352199,2012-01-07 18:46:08+00:00,True,19457,/* II Rzeczpospolita */ gram.,"{'id': 63206, 'name': 'Andros64'}",-11.0
+29352187,2012-01-07 18:45:15+00:00,True,19468,"/* II Rzeczpospolita */ drobne techniczne, poprawa linków","{'id': 63206, 'name': 'Andros64'}",42.0
+29352167,2012-01-07 18:43:43+00:00,True,19426,/* II Rzeczpospolita */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",30.0
+29352150,2012-01-07 18:42:37+00:00,True,19396,poprawa linków,"{'id': 63206, 'name': 'Andros64'}",-3.0
+29351957,2012-01-07 18:30:50+00:00,True,19399,poprawa linków,"{'id': 63206, 'name': 'Andros64'}",3.0
+29350434,2012-01-07 16:43:46+00:00,True,19396,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-1.0
+29350405,2012-01-07 16:41:53+00:00,True,19397,"/* Literatura */ +1, drobne redakcyjne","{'id': 63206, 'name': 'Andros64'}",200.0
+29350395,2012-01-07 16:41:08+00:00,True,19197,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-2.0
+29350382,2012-01-07 16:40:26+00:00,False,19199,/* II Rzeczpospolita */ źródło,"{'id': 63206, 'name': 'Andros64'}",2956.0
+29347342,2012-01-07 13:14:25+00:00,True,16243,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",10.0
+29347114,2012-01-07 13:02:48+00:00,True,16233,/* II Rzeczpospolita */ poprawa linków,"{'id': 63206, 'name': 'Andros64'}",22.0
+29347091,2012-01-07 13:01:54+00:00,True,16211,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",82.0
+29346902,2012-01-07 12:50:14+00:00,True,16129,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",23.0
+29346835,2012-01-07 12:46:25+00:00,True,16106,"/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ styl, drobne merytoryczne","{'id': 63206, 'name': 'Andros64'}",121.0
+29346761,2012-01-07 12:42:05+00:00,True,15985,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ styl,"{'id': 63206, 'name': 'Andros64'}",-54.0
+29346295,2012-01-07 12:10:14+00:00,True,16039,/* II Rzeczpospolita */ cytat ze źródła,"{'id': 63206, 'name': 'Andros64'}",911.0
+29346208,2012-01-07 12:03:32+00:00,True,15128,"/* II Rzeczpospolita */ drobne merytoryczne zatwierdzenie granic- uchwała 14, aneks do traktatu-15,03","{'id': 63206, 'name': 'Andros64'}",139.0
+29346130,2012-01-07 11:57:42+00:00,True,14989,/* Okupacja niemiecka 1941-1944 */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",-6.0
+29346125,2012-01-07 11:57:22+00:00,True,14995,/* Okupacja niemiecka 1941-1944 */ styl,"{'id': 63206, 'name': 'Andros64'}",-3.0
+29346043,2012-01-07 11:50:25+00:00,False,14998,źródło,"{'id': 63206, 'name': 'Andros64'}",637.0
+29345749,2012-01-07 11:30:31+00:00,True,14361,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-36.0
+29345731,2012-01-07 11:28:54+00:00,False,14397,/* Okupacja sowiecka 1944-1945 i wcielenie do ZSRR */ uzupełnienie,"{'id': 63206, 'name': 'Andros64'}",1021.0
+29345701,2012-01-07 11:26:25+00:00,False,13376,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ powtórzenie,"{'id': 220946, 'name': 'Paweł5586'}",-356.0
+29345591,2012-01-07 11:18:54+00:00,True,13732,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",7.0
+29345583,2012-01-07 11:18:14+00:00,True,13725,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ lit.,"{'id': 63206, 'name': 'Andros64'}",1.0
+29345561,2012-01-07 11:16:56+00:00,True,13724,drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",-12.0
+29345542,2012-01-07 11:15:18+00:00,True,13736,/* Związek Radziecki */ drobne merytoryczne,"{'id': 63206, 'name': 'Andros64'}",33.0
+29345511,2012-01-07 11:13:53+00:00,True,13703,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",7.0
+29345508,2012-01-07 11:13:36+00:00,True,13696,/* Zachodnioukraińska Republika Ludowa i wojna polsko-ukraińska */ styl,"{'id': 63206, 'name': 'Andros64'}",1.0
+29345500,2012-01-07 11:12:34+00:00,True,13695,/* Literatura */ drobne techniczne,"{'id': 63206, 'name': 'Andros64'}",2.0
+29345484,2012-01-07 11:11:33+00:00,False,13693,/* Po I woj. św. */ uzupełnienie,"{'id': 63206, 'name': 'Andros64'}",2133.0
+29231301,2011-12-30 12:13:15+00:00,False,11560,/* Zachodnioukraińska Republika Ludowa */ drobne redakcyjne,"{'id': 220946, 'name': 'Paweł5586'}",-22.0
+29231244,2011-12-30 12:10:25+00:00,False,11582,/* Okupacja sowiecka 1939-1941/1944-1945 */ drobne redakcyjne,"{'id': 220946, 'name': 'Paweł5586'}",-10.0
+29231235,2011-12-30 12:10:09+00:00,False,11592,/* Okupacja sowiecka 1939-1941/1944-1945 */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",1879.0
+29231200,2011-12-30 12:08:12+00:00,False,9713,/* Zachodnioukraińska Republika Ludowa */ drobne redakcyjne,"{'id': 220946, 'name': 'Paweł5586'}",58.0
+28688395,2011-11-13 20:56:57+00:00,False,9655,kat,"{'id': 20467, 'name': 'Silar'}",9.0
+28236974,2011-10-05 15:18:09+00:00,False,9646,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",0.0
+28235722,2011-10-05 12:52:47+00:00,False,9646,zamiast dodawania po raz drugi źródła wystarczy kliknąć w istniejące...,"{'id': None, 'name': '213.192.80.182'}",-8.0
+28213886,2011-10-03 11:05:22+00:00,False,9654,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",8.0
+28213642,2011-10-03 10:44:53+00:00,False,9646,uzupełnienie,"{'id': None, 'name': '213.192.80.182'}",115.0
+27988423,2011-09-13 19:10:42+00:00,False,9531,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",0.0
+27315025,2011-07-19 10:00:37+00:00,False,9531,drobne redakcyjne,"{'id': 220946, 'name': 'Paweł5586'}",11.0
+27315016,2011-07-19 09:59:59+00:00,False,9520,/* II Rzeczpospolita */ brak źródeł,"{'id': 220946, 'name': 'Paweł5586'}",-179.0
+27305727,2011-07-18 19:28:28+00:00,True,9699,"Usunięto kategorię ""Historia Polski"" za pomocą [[WP:Narzędzia/HotCat|HotCat]] nadrzędna","{'id': 67596, 'name': 'Gbylski'}",-30.0
+26683853,2011-06-02 20:24:47+00:00,False,9729,poprawa linków,"{'id': 247220, 'name': 'Pawski'}",40.0
+24799598,2011-01-01 14:09:37+00:00,False,9689,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",-56.0
+24799501,2011-01-01 14:07:07+00:00,False,9745,/* Okupacja niemiecka 1941-1944 */ drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",27.0
+24796887,2011-01-01 12:53:52+00:00,False,9718,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",46.0
+24794800,2011-01-01 11:56:39+00:00,False,9672,"[[WP:SK]], ilustracja","{'id': 13668, 'name': 'Mix321'}",106.0
+24697141,2010-12-31 19:20:27+00:00,False,9566,/* Związek Radziecki */,"{'id': 13668, 'name': 'Mix321'}",32.0
+24694245,2010-12-31 19:06:47+00:00,False,9534,/* Związek Radziecki */,"{'id': 13668, 'name': 'Mix321'}",62.0
+24675306,2010-12-31 17:43:34+00:00,False,9472,/* Linki zewnętrzne */Usunięcie zbędnego szablonu {{stub}},"{'id': 150677, 'name': 'KamikazeBot'}",-8.0
+24087597,2010-11-28 00:53:48+00:00,False,9480,Wymiana map: poprzednia mapa (po niemiecku) jest jedynie zbiorem błędów i pomyłek.,"{'id': 183096, 'name': 'Kiejstut9'}",-6.0
+23395365,2010-09-30 12:46:43+00:00,True,9486,/* Literatura */ linki zewnętrzne +1,"{'id': 63203, 'name': 'Birczanin'}",138.0
+22479895,2010-07-20 14:05:30+00:00,False,9348,/* Zachodnioukraińska Republika Ludowa */ poprawa linków,"{'id': 13668, 'name': 'Mix321'}",125.0
+22479260,2010-07-20 13:08:06+00:00,False,9223,dr. uzupełnienie,"{'id': 247220, 'name': 'Pawski'}",212.0
+22013736,2010-06-09 16:27:53+00:00,False,9011,"Wersja poprzednia. // Przypominam, że zostałeś zablokowany na kilka miesięcy, nia masz prawa edytowac. Poza tym wprowadzasz fałsz","{'id': 247220, 'name': 'Pawski'}",-952.0
+22008748,2010-06-09 08:42:49+00:00,False,9963,proszę o douczenie się w temacie Galicji,"{'id': None, 'name': '83.4.194.229'}",953.0
+22005751,2010-06-08 20:27:28+00:00,False,9010,anulowanie wersji Birczanina,"{'id': 247220, 'name': 'Pawski'}",-953.0
+21855136,2010-05-29 20:45:27+00:00,False,9963,/* Literatura */ drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",60.0
+21855109,2010-05-29 20:43:16+00:00,False,9903,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",510.0
+21844801,2010-05-29 09:24:56+00:00,False,9393,drobne merytoryczne,"{'id': None, 'name': '62.89.115.19'}",581.0
+21741151,2010-05-21 09:39:13+00:00,False,8812,"linki zewnętrzne // brak faktów // usunięcie fałszu // usuięcie zdania nadto kontrowersyjnego i nieuźródłowionego // dr.mer // dodanie przypisu, // kat.","{'id': 247220, 'name': 'Pawski'}",704.0
+21280561,2010-04-22 08:47:43+00:00,True,8108,"przywrócenie poprzedniej wersji, więcej w Dyskusji","{'id': 63203, 'name': 'Birczanin'}",34.0
+21280527,2010-04-22 08:43:49+00:00,False,8074,to jego sprawa jeśli używa niepoprawnej wersji,"{'id': 220946, 'name': 'Paweł5586'}",-34.0
+21280453,2010-04-22 08:35:35+00:00,True,8108,a Torzecki używa określenia GW również w stosunku do okresu międzywojennego.,"{'id': 63203, 'name': 'Birczanin'}",34.0
+21280399,2010-04-22 08:29:16+00:00,False,8074,"/* II Rzeczpospolita */ - OR, prof pisze że zastąpiono nie używano zamiennie","{'id': 220946, 'name': 'Paweł5586'}",-34.0
+21280369,2010-04-22 08:26:20+00:00,True,8108,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",25.0
+21280358,2010-04-22 08:24:58+00:00,True,8083,drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",9.0
+21280198,2010-04-22 07:54:33+00:00,True,8074,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-2.0
+21280127,2010-04-22 07:41:25+00:00,True,8076,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21279834,2010-04-22 07:00:36+00:00,False,8074,migracje ludności to nie kolonializm,"{'id': 220946, 'name': 'Paweł5586'}",-2.0
+21279681,2010-04-22 06:38:09+00:00,True,8076,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21279530,2010-04-22 06:14:44+00:00,False,8074,migracje ludności to nie kolonizacja,"{'id': 220946, 'name': 'Paweł5586'}",-2.0
+21252867,2010-04-20 12:21:14+00:00,True,8076,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21252817,2010-04-20 12:17:17+00:00,True,8074,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-2.0
+21252812,2010-04-20 12:17:11+00:00,True,8076,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21252783,2010-04-20 12:15:25+00:00,True,8074,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-2.0
+21252742,2010-04-20 12:12:51+00:00,True,8076,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21252658,2010-04-20 12:06:57+00:00,False,8074,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-9.0
+21252655,2010-04-20 12:06:31+00:00,False,8083,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",7.0
+21252542,2010-04-20 11:55:28+00:00,True,8076,/* II Rzeczpospolita */ int.,"{'id': 63203, 'name': 'Birczanin'}",-2.0
+21252533,2010-04-20 11:54:51+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21252459,2010-04-20 11:48:58+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21252424,2010-04-20 11:46:24+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21252154,2010-04-20 11:20:15+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21252077,2010-04-20 11:13:44+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21251832,2010-04-20 10:55:31+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21251812,2010-04-20 10:53:48+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21251659,2010-04-20 10:40:22+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21251427,2010-04-20 10:16:39+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21251248,2010-04-20 10:01:08+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21251228,2010-04-20 10:00:01+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21251161,2010-04-20 09:55:00+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21251158,2010-04-20 09:54:50+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21251106,2010-04-20 09:49:27+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21250815,2010-04-20 09:26:10+00:00,True,8078,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21250741,2010-04-20 09:19:30+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-188.0
+21250426,2010-04-20 08:46:50+00:00,True,8079,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",188.0
+21250316,2010-04-20 08:33:17+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-188.0
+21250302,2010-04-20 08:31:43+00:00,True,8079,lit.,"{'id': 63203, 'name': 'Birczanin'}",188.0
+21250266,2010-04-20 08:27:52+00:00,True,7891,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-187.0
+21250200,2010-04-20 08:19:59+00:00,True,8078,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21250159,2010-04-20 08:13:43+00:00,False,7891,brak źródeł,"{'id': 220946, 'name': 'Paweł5586'}",-175.0
+21250151,2010-04-20 08:13:08+00:00,False,8066,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-19.0
+21250145,2010-04-20 08:12:30+00:00,False,8085,/* Austria i Austro-Węgry */ usunięcie śmieszności,"{'id': 220946, 'name': 'Paweł5586'}",7.0
+21249105,2010-04-20 06:15:59+00:00,True,8078,drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",63.0
+21249023,2010-04-20 06:09:41+00:00,True,8015,"/* Austria i Austro-Węgry */ drobne redakcyjne, drobne merytoryczne","{'id': 63203, 'name': 'Birczanin'}",-6.0
+21249013,2010-04-20 06:09:02+00:00,True,8021,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",222.0
+21248946,2010-04-20 06:03:39+00:00,True,7799,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-222.0
+21247766,2010-04-20 01:08:38+00:00,True,8021,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",222.0
+21242576,2010-04-19 17:36:40+00:00,False,7799,/* II Rzeczpospolita */ brak źródeł,"{'id': 220946, 'name': 'Paweł5586'}",-174.0
+21242570,2010-04-19 17:35:49+00:00,False,7973,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",7.0
+21241749,2010-04-19 16:44:50+00:00,False,7966,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-55.0
+21239427,2010-04-19 13:51:35+00:00,True,8021,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",10.0
+21239350,2010-04-19 13:45:31+00:00,True,8011,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",452.0
+21239296,2010-04-19 13:41:27+00:00,True,7559,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",713.0
+21239122,2010-04-19 13:28:18+00:00,True,6846,"przywrócenie poprzedniej wersji, drobne techniczne","{'id': 63203, 'name': 'Birczanin'}",590.0
+21237754,2010-04-19 13:00:16+00:00,False,6256,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-13.0
+21237739,2010-04-19 12:59:19+00:00,False,6269,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",86.0
+21237672,2010-04-19 12:53:06+00:00,True,6183,[[WP:SK]],"{'id': 214770, 'name': 'TAMM'}",-8.0
+21237671,2010-04-19 12:53:00+00:00,True,6191,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-664.0
+21237667,2010-04-19 12:52:35+00:00,True,6855,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",664.0
+21237654,2010-04-19 12:51:33+00:00,False,6191,brak źródła,"{'id': 220946, 'name': 'Paweł5586'}",-174.0
+21237614,2010-04-19 12:48:47+00:00,True,6365,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-490.0
+21236928,2010-04-19 11:45:34+00:00,True,6855,"przywrócenie poprzedniej wersji, głos w dyskusji","{'id': 63203, 'name': 'Birczanin'}",490.0
+21236831,2010-04-19 11:35:04+00:00,True,6365,Wycofano edycje użytkownika [[Special:Contributions/Birczanin|Birczanin]] ([[User talk:Birczanin|dyskusja]]). Autor przywróconej wersji to [[User:Paweł5586|Paweł5586]].,"{'id': 220946, 'name': 'Paweł5586'}",-490.0
+21236688,2010-04-19 11:23:43+00:00,True,6855,"przywrócenie poprzedniej wersji, głos w dyskusji","{'id': 63203, 'name': 'Birczanin'}",490.0
+21236560,2010-04-19 11:14:15+00:00,False,6365,/* Austria i Austro-Węgry */ - pov,"{'id': 220946, 'name': 'Paweł5586'}",-361.0
+21236556,2010-04-19 11:13:58+00:00,False,6726,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",53.0
+21236526,2010-04-19 11:11:58+00:00,False,6673,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",-182.0
+21236464,2010-04-19 11:07:12+00:00,True,6855,/* II Rzeczpospolita */ drobne techniczne,"{'id': 63203, 'name': 'Birczanin'}",2.0
+21236426,2010-04-19 11:04:40+00:00,True,6853,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",53.0
+21236396,2010-04-19 11:02:16+00:00,False,6800,/* II Rzeczpospolita */ refs,"{'id': 220946, 'name': 'Paweł5586'}",82.0
+21236282,2010-04-19 10:53:08+00:00,True,6718,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",27.0
+21236277,2010-04-19 10:52:36+00:00,True,6691,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",13.0
+21236265,2010-04-19 10:51:27+00:00,True,6678,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",25.0
+21236232,2010-04-19 10:47:46+00:00,True,6653,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",26.0
+21236186,2010-04-19 10:44:26+00:00,True,6627,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",-66.0
+21236159,2010-04-19 10:41:51+00:00,False,6693,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",66.0
+21236115,2010-04-19 10:37:51+00:00,True,6627,/* II Rzeczpospolita */ int.,"{'id': 63203, 'name': 'Birczanin'}",1.0
+21236108,2010-04-19 10:37:26+00:00,True,6626,drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",0.0
+21236094,2010-04-19 10:36:21+00:00,True,6626,/* Austria i Austro-Węgry */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",-2.0
+21236065,2010-04-19 10:33:57+00:00,True,6628,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",54.0
+21236037,2010-04-19 10:31:46+00:00,False,6574,NIe było Królestwa Galicji w XVIII w. a woj. ruskie,"{'id': 220946, 'name': 'Paweł5586'}",-27.0
+21235988,2010-04-19 10:27:58+00:00,True,6601,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",27.0
+21235846,2010-04-19 10:17:12+00:00,False,6574,/* Austria i Austro-Węgry */ POV,"{'id': 220946, 'name': 'Paweł5586'}",-119.0
+21235826,2010-04-19 10:16:13+00:00,False,6693,szablon,"{'id': 220946, 'name': 'Paweł5586'}",92.0
+21235769,2010-04-19 10:10:14+00:00,True,6601,fakt,"{'id': 63203, 'name': 'Birczanin'}",8.0
+21235699,2010-04-19 10:05:09+00:00,True,6593,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",6.0
+21235530,2010-04-19 09:51:08+00:00,False,6587,"drobne merytoryczne, , drobne redakcyjne","{'id': 220946, 'name': 'Paweł5586'}",92.0
+21235491,2010-04-19 09:47:25+00:00,False,6495,/* Zachodnioukraińska Republika Ludowa */ drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",21.0
+21235404,2010-04-19 09:38:48+00:00,False,6474,/* Austria i Austro-Węgry */ - OR,"{'id': 220946, 'name': 'Paweł5586'}",-119.0
+21235080,2010-04-19 08:59:41+00:00,True,6593,/* II Rzeczpospolita */ drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",10.0
+21235056,2010-04-19 08:55:24+00:00,True,6583,/* II Rzeczpospolita */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",523.0
+21235012,2010-04-19 08:48:35+00:00,True,6060,/* Austria i Austro-Węgry */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",362.0
+21234981,2010-04-19 08:43:53+00:00,True,5698,drobne techniczne,"{'id': 63203, 'name': 'Birczanin'}",187.0
+21234954,2010-04-19 08:40:44+00:00,True,5511,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",325.0
+21234900,2010-04-19 08:34:38+00:00,True,5186,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",46.0
+21234887,2010-04-19 08:32:57+00:00,True,5140,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",640.0
+21196255,2010-04-16 17:17:54+00:00,False,4500,"- kat. nadrzędna, drobne techniczne","{'id': 28058, 'name': 'Mathiasrex'}",-28.0
+21055116,2010-04-06 14:51:54+00:00,True,4528,Robot automatycznie usuwa linki zwrotne; zmiany kosmetyczne,"{'id': 126431, 'name': 'MastiBot'}",-22.0
+20749724,2010-03-16 02:38:25+00:00,True,4550,dodanie daty do szablonu,"{'id': 217050, 'name': 'AlohaBOT'}",13.0
+20699680,2010-03-13 16:40:14+00:00,False,4537,korekta linku,"{'id': 183096, 'name': 'Kiejstut9'}",23.0
+20673147,2010-03-11 09:07:24+00:00,True,4514,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",1062.0
+20053709,2010-01-22 14:11:49+00:00,False,3452,,"{'id': 333567, 'name': 'Шыст'}",-21.0
+19512412,2009-12-08 19:54:36+00:00,False,3473,interwiki in aragonese language,"{'id': 221572, 'name': 'ARAGONESE35'}",25.0
+19283651,2009-11-21 10:42:56+00:00,True,3448,dr. tech.,"{'id': 201165, 'name': 'Adik86'}",6.0
+17263079,2009-06-01 09:21:57+00:00,True,3442,drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",-106.0
+17262279,2009-06-01 07:24:02+00:00,False,3548,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",106.0
+17262214,2009-06-01 07:11:23+00:00,False,3442,drobne merytoryczne,"{'id': 220946, 'name': 'Paweł5586'}",314.0
+16821566,2009-04-24 21:35:46+00:00,False,3128,drobne redakcyjne,"{'id': 13668, 'name': 'Mix321'}",141.0
+16501211,2009-03-28 15:40:41+00:00,True,2987,lit.,"{'id': 63203, 'name': 'Birczanin'}",0.0
+16501137,2009-03-28 15:34:30+00:00,False,2987,,"{'id': 13668, 'name': 'Mix321'}",12.0
+16479981,2009-03-26 18:47:58+00:00,False,2975,błędna data,"{'id': None, 'name': '79.163.128.200'}",0.0
+15721045,2009-01-27 21:44:03+00:00,False,2975,"/* lnk fix */ ""Związek Radziecki"" → ""[[Związek Socjalistycznych Republik Radzieckich]]""","{'id': 6381, 'name': 'Tsca.bot'}",28.0
+15086898,2008-12-07 10:38:00+00:00,True,2947,/* Literatura */ lit.,"{'id': 63203, 'name': 'Birczanin'}",1.0
+15086893,2008-12-07 10:37:41+00:00,True,2946,/* Pomiędzy wojnami światowymi */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",361.0
+15086810,2008-12-07 10:30:18+00:00,True,2585,/* Historia */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",287.0
+15086617,2008-12-07 10:09:42+00:00,True,2298,/* Literatura */ kat.,"{'id': 63203, 'name': 'Birczanin'}",52.0
+15086606,2008-12-07 10:08:47+00:00,True,2246,/* Historia */ drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",453.0
+14743457,2008-11-07 18:48:29+00:00,False,1793,drobne redakcyjne,"{'id': None, 'name': '83.29.92.202'}",33.0
+14741336,2008-11-07 15:24:24+00:00,True,1760,drobne techniczne,"{'id': 63203, 'name': 'Birczanin'}",46.0
+14718369,2008-11-05 14:32:28+00:00,True,1714,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",238.0
+11048574,2008-01-21 16:50:03+00:00,True,1476,przywrócenie poprzedniej wersji,"{'id': 63203, 'name': 'Birczanin'}",-408.0
+11048317,2008-01-21 16:21:47+00:00,False,1884,drobne redakcyjne,"{'id': None, 'name': '193.151.25.250'}",408.0
+11032349,2008-01-20 08:32:08+00:00,True,1476,poprawa linków,"{'id': 22860, 'name': 'Aotearoa'}",0.0
+9974399,2007-10-23 21:21:15+00:00,True,1476,"Przywrócono przedostatnią wersję, jej autor to [[Wikipedysta:Birczanin|Birczanin]]. Autor wycofanej edycji to [[Specjalna:Wkład/Siedlar|Siedlar]].","{'id': 107193, 'name': 'Bukaj'}",-173.0
+9974391,2007-10-23 21:20:42+00:00,True,1649,linki zewnętrzne,"{'id': 144874, 'name': 'Siedlar'}",173.0
+9857248,2007-10-13 12:22:29+00:00,True,1476,[[Pomoc:Interwiki|interwiki]],"{'id': 63203, 'name': 'Birczanin'}",35.0
+9079993,2007-08-16 15:51:03+00:00,False,1441,-,"{'id': None, 'name': '84.176.46.232'}",83.0
+8568061,2007-07-07 19:50:33+00:00,True,1358,poprawa linków,"{'id': 63203, 'name': 'Birczanin'}",4.0
+8565375,2007-07-07 15:47:26+00:00,True,1354,lit.,"{'id': 63203, 'name': 'Birczanin'}",2.0
+8565368,2007-07-07 15:46:38+00:00,True,1352,drobne redakcyjne,"{'id': 63203, 'name': 'Birczanin'}",-12.0
+8565353,2007-07-07 15:45:35+00:00,True,1364,poprawa linków,"{'id': 63203, 'name': 'Birczanin'}",5.0
+8565341,2007-07-07 15:44:36+00:00,True,1359,drobne techniczne,"{'id': 63203, 'name': 'Birczanin'}",-4.0
+8565336,2007-07-07 15:44:19+00:00,True,1363,drobne merytoryczne,"{'id': 63203, 'name': 'Birczanin'}",547.0
+8564684,2007-07-07 14:56:02+00:00,False,816,,"{'id': None, 'name': '83.4.150.190'}",98.0
+8564640,2007-07-07 14:52:27+00:00,False,718,,"{'id': None, 'name': '83.4.150.190'}",250.0
+6285735,2007-01-26 07:44:41+00:00,False,468,,"{'id': None, 'name': '83.22.246.15'}",1.0
+6285733,2007-01-26 07:44:11+00:00,False,467,,"{'id': None, 'name': '83.22.246.15'}",69.0
+5311259,2006-11-17 12:22:37+00:00,False,398,,"{'id': 73545, 'name': 'Kazik Rex'}",10.0
+5102696,2006-10-28 16:46:54+00:00,False,388,popr. szablon,"{'id': 62814, 'name': 'YarluBot'}",1.0
+4926183,2006-10-10 22:10:27+00:00,True,387,lit.,"{'id': 62612, 'name': 'Turkusowy smok'}",-3.0
+4894784,2006-10-07 17:01:22+00:00,False,390,"*)Przywrócono poprzednią wersję, jej autor to [[Wikipedysta:Jersz|Jersz]]. Autor wycofanej edycji to [[Specjalna:Contributions/84.201.219.6|84.201.219.6]]","{'id': 13668, 'name': 'Mix321'}",-102.0
+4894079,2006-10-07 15:34:33+00:00,False,492,,"{'id': None, 'name': '84.201.219.6'}",102.0
+4840141,2006-10-01 14:38:08+00:00,True,390,"Przywrócono przedostatnią wersję, jej autor to [[Wikipedysta:Picus viridis|Picus viridis]]. Autor wycofanej edycji to [[Specjalna:Contributions/84.201.219.6|84.201.219.6]].","{'id': 17, 'name': 'Jersz'}",-168.0
+4840134,2006-10-01 14:37:26+00:00,False,558,,"{'id': None, 'name': '84.201.219.6'}",168.0
+4041643,2006-07-29 23:12:36+00:00,True,390,Ujednoznacznienie linku z [[Stanisławów]] na [[Iwano-Frankiwsk]] przy pomocy [[:pl:Wikipedia:Narzędzia/Navigation popups|Popups]],"{'id': 47024, 'name': 'Litwin Gorliwy'}",2.0
+2947383,2006-03-30 21:44:08+00:00,True,388,,"{'id': 21717, 'name': 'Qwertyy'}",14.0
+2754109,2006-03-11 12:59:25+00:00,False,374,,"{'id': 13668, 'name': 'Mix321'}",

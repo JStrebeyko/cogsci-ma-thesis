@@ -1,2 +1,2 @@
 - [ ] A. H, about ORES
-- [ ] see with P.P
+- [x] see with P.P
