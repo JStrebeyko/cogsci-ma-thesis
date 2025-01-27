@@ -226,21 +226,29 @@ new take ([notebook](./notebooks/02_pivot_first_paragraph/21_is_biogram_biased_c
 - [x] try to copy-paste paragraphs ("the rest") to a more effective model, see whether it is capable to produce a "5 adjectives only" output;
   - Roosevelt's too long to copy into [ChatGTP](chat.com)
 
+### 250101
+
+- [x] prepare for MLSTA screening tomorrow
+- [x] Reply to WikiResearch, access to ORES? -> no way of inspecting the model and prividing it with arbitrary text because the container it is in.
+
+### 250102
+
+- [ ] prepare a talk with Zadrożny
+
 ## THE TASK STACK
 
 ### reachout
 
 - [] set up a meeting with DEMAGOG(AS)
-- [] Reply to WikiResearch, access to ORES?
 
 ### reading
 
-- [] Croatian digest
-- [] [Wikimedia data for AI: a review of Wikimedia datasets for NLP tasks and AI-assisted editing](https://arxiv.org/pdf/2410.08918)
-- [] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
-- [] ⭐ [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://cocoxu.github.io/files/EMNLP2021findings_WikiBias.pdf)
-- [] [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://arxiv.org/pdf/2403.14896)
-- [] compare the three texts and extract methods: [Seeing like AI](./references/00_see_like_ai.md), [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709),
+- [ ] Croatian digest
+- [ ] [Wikimedia data for AI: a review of Wikimedia datasets for NLP tasks and AI-assisted editing](https://arxiv.org/pdf/2410.08918)
+- [ ] ⭐ [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709)
+- [ ] ⭐ [WIKIBIAS: Detecting Multi-Span Subjective Biases in Language](https://cocoxu.github.io/files/EMNLP2021findings_WikiBias.pdf)
+- [ ] [Investigating Bias in LLM-Based Bias Detection: Disparities between LLMs and Human Perception](https://arxiv.org/pdf/2403.14896)
+- [ ] compare the three texts and extract methods: [Seeing like AI](./references/00_see_like_ai.md), [Automatically Neutralizing Subjective Bias in Text](https://arxiv.org/pdf/1911.09709),
 
 ### data
 
